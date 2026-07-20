@@ -99,7 +99,7 @@ AND \uppercase{Muhammad E. H. Chowdhury}\authorrefmark{3},
 
 
 \begin{abstract}
-High in-domain scores do not establish that a sarcasm detector transfers beyond its training corpus. We reassess Bengali sarcasm detection on three human-annotated corpora (Ben-Sarc, BanglaSarc, and BanglaSarc3) using normalized-exact-match deduplication before splitting, same-split baseline reproduction, and a complete repeated cross-corpus design. The primary evidence comprises 30 trained BanglaBERT models---vanilla and Fast Gradient Method (FGM) fine-tuning on three source corpora over five matched seeds---and 90 source--target evaluations. For FGM, mean in-domain macro-F1 is 0.8465, whereas mean off-diagonal transfer is 0.5364. The central conclusion is evaluation-oriented: end-to-end adaptation is strong in-domain, cross-corpus incompatibility is large and asymmetric, and target-domain validation remains necessary. The same fixed populations are recovered independently from the saved prediction files. On Ben-Sarc, FGM obtains $0.7984\pm0.0035$ macro-F1 versus $0.7914\pm0.0085$ for vanilla, but five seeds make the exact two-sided sign-flip test incapable of attaining $p<0.05$. The design therefore characterizes transfer degradation but cannot resolve a small systematic FGM advantage. Temperature scaling improves mean calibration while leaving a substantial shifted-domain calibration gap. Supporting reproduction, backbone, adversarial, ensemble, and error analyses are kept separate from the repeated primary evidence. The central conclusion is evaluation-oriented: end-to-end adaptation is strong in-domain, cross-corpus incompatibility is large and asymmetric, and target-domain validation remains necessary.
+High in-domain scores do not establish that a sarcasm detector transfers beyond its training corpus. We reassess Bengali sarcasm detection on three human-annotated corpora (Ben-Sarc, BanglaSarc, and BanglaSarc3) using normalized-exact-match deduplication before splitting, same-split baseline reproduction, and a complete repeated cross-corpus design. The primary evidence comprises 30 trained BanglaBERT models---vanilla and Fast Gradient Method (FGM) fine-tuning on three source corpora over five matched seeds---and 90 source--target evaluations. For FGM, mean in-domain macro-F1 is 0.8465, whereas mean off-diagonal transfer is 0.5364. The same fixed populations are recovered independently from the saved prediction files. On Ben-Sarc, FGM obtains $0.7984\pm0.0035$ macro-F1 versus $0.7914\pm0.0085$ for vanilla, but five seeds make the exact two-sided sign-flip test incapable of attaining $p<0.05$. The design therefore characterizes transfer degradation but cannot resolve a small systematic FGM advantage. Temperature scaling improves mean calibration while leaving a substantial shifted-domain calibration gap. Supporting reproduction, backbone, adversarial, ensemble, and error analyses are kept separate from the repeated primary evidence. The central conclusion is evaluation-oriented: end-to-end adaptation is strong in-domain, cross-corpus incompatibility is large and asymmetric, and target-domain validation remains necessary.
 \end{abstract}
 
 \begin{keywords}
@@ -1068,40 +1068,40 @@ All code, Notebook 18, the long-form 90-cell record, the 90 text-free prediction
 \phantomsection
 \section*{Acknowledgment}
 \addcontentsline{toc}{section}{Acknowledgment}
-The authors used AI writing assistants---Anthropic Claude \cite{anthropicClaude}, OpenAI ChatGPT \cite{openaiChatGPT}, and QuillBot QuillBot \cite{quillbot} ---only to improve language and check grammar. Their role was limited to wording, phrasing, and proofreading. They did not design the study, select data, run experiments, analyze results, or draw conclusions, and they do not qualify for authorship. Every figure, table, and number in this paper comes from the authors' own code and experiments, and the authors take full responsibility for the content.
+The authors used AI writing assistants---Anthropic Claude \cite{anthropicClaude}, OpenAI ChatGPT \cite{openaiChatGPT}, and QuillBot \cite{quillbot} ---only to improve language and check grammar. Their role was limited to wording, phrasing, and proofreading. They did not design the study, select data, run experiments, analyze results, or draw conclusions, and they do not qualify for authorship. Every figure, table, and number in this paper comes from the authors' own code and experiments, and the authors take full responsibility for the content.
 
 \phantomsection
 \bibliographystyle{IEEEtran}
 \bibliography{references}
 
 \begin{IEEEbiography}[{\includegraphics[width=1in,height=1.25in,clip,keepaspectratio]{author_alam.png}}]{Khandoker Sefayet Alam}
-is currently pursuing the B.Sc.\ degree in computer science and engineering with the Rajshahi University of Engineering and Technology (RUET), Rajshahi, Bangladesh.
+is an undergraduate in computer science and engineering at the Rajshahi University of Engineering and Technology (RUET), Rajshahi, Bangladesh, where he is completing the B.Sc.\ degree.
 
-In 2025 he completed an industrial attachment with Vivasoft Limited, Dhaka, Bangladesh, working on full-stack web development, and he has previously worked under contract evaluating the outputs of code-generation models. His research interests include natural language processing for low-resource languages, reproducible machine-learning evaluation, and cross-corpus generalization.
+He spent part of 2025 at Vivasoft Limited in Dhaka on a full-stack web development attachment, and before that worked under contract grading the outputs of code-generation models. What he studies now grew out of that: natural language processing for low-resource languages, reproducible machine-learning evaluation, and cross-corpus generalization.
 
-Mr.\ Alam competed in the ICPC Asia Dhaka Regional Contest in 2024 and 2025, and placed eighth among more than 120 teams at the UIU Inter-University Programming Contest in 2025.
+Mr.\ Alam competed in the ICPC Asia Dhaka Regional Contest in both 2024 and 2025, and finished eighth out of more than 120 teams at the 2025 UIU Inter-University Programming Contest.
 \end{IEEEbiography}
 
 \begin{IEEEbiography}[{\includegraphics[width=1in,height=1.25in,clip,keepaspectratio]{author_islam.png}}]{Md. Rabiul Islam}
-received the Ph.D.\ degree from the Department of Electrical and Electronic Engineering, Rajshahi University of Engineering and Technology (RUET), Rajshahi, Bangladesh, in 2012.
+earned his Ph.D.\ from the Department of Electrical and Electronic Engineering at the Rajshahi University of Engineering and Technology (RUET), Rajshahi, Bangladesh, in 2012.
 
-He is currently a Professor with the Department of Computer Science and Engineering, RUET, and the Director of its Institute of Information and Communication Technology (IICT). He has served as the Dean of the Faculty of Electrical and Computer Engineering, RUET. A long strand of his work applies machine learning to bioinformatics, recovering interpretable structure from large-scale biological data. His research interests include biomedical engineering, pattern recognition, deep learning, and biometrics.
+He is now a Professor in RUET's Department of Computer Science and Engineering and directs the university's Institute of Information and Communication Technology (IICT); he previously served as Dean of the Faculty of Electrical and Computer Engineering. Much of his research puts machine learning to work on bioinformatics, pulling usable structure out of large biological datasets. His interests span biomedical engineering, pattern recognition, deep learning, and biometrics.
 \end{IEEEbiography}
 
 \begin{IEEEbiography}[{\includegraphics[width=1in,height=1.25in,clip,keepaspectratio]{author_ahamed.png}}]{Md. Faysal Ahamed}
-received the B.Sc.\ degree in electrical and computer engineering from the Rajshahi University of Engineering and Technology (RUET), Rajshahi, Bangladesh, in 2022, ranking second in his department, and subsequently completed the M.Sc.\ degree in computer science and engineering.
+graduated in electrical and computer engineering from the Rajshahi University of Engineering and Technology (RUET), Rajshahi, Bangladesh, in 2022, second in his department, and went on to finish an M.Sc.\ in computer science and engineering.
 
-He joined RUET as a Lecturer with the Department of Electrical and Computer Engineering in January 2024, and has been an Assistant Professor there since September 2025. He has authored or co-authored 26 journal articles, 13 conference papers, and nine books and book chapters, and has collaborated with the Machine Learning Laboratory, Qatar University. His research interests include medical image processing, image classification, segmentation, and localization, and the design of efficient deep-learning models with explainable artificial intelligence.
+He joined RUET's faculty as a Lecturer in the Department of Electrical and Computer Engineering in January 2024 and was promoted to Assistant Professor in September 2025. His record runs to 26 journal articles, 13 conference papers, and nine books and book chapters, and he has collaborated with the Machine Learning Laboratory at Qatar University. Most of that work sits in medical image processing (classification, segmentation, and localization), together with efficient, explainable deep-learning models.
 
-Mr.\ Ahamed was a recipient of the Excellent Research Award from the Department of Electrical and Computer Engineering, RUET, in 2022, and the Student of the Year Award in 2021 and 2022.
+The Department of Electrical and Computer Engineering at RUET gave him its Excellent Research Award in 2022, and he was named Student of the Year in 2021 and 2022.
 \end{IEEEbiography}
 
 \begin{IEEEbiography}[{\includegraphics[width=1in,height=1.25in,clip,keepaspectratio]{author_chowdhury.png}}]{Muhammad E. H. Chowdhury}
-(Senior Member, IEEE) received the Ph.D.\ degree in electrical engineering from the University of Nottingham, Nottingham, U.K., in 2014.
+(Senior Member, IEEE) completed his Ph.D.\ in electrical engineering at the University of Nottingham, U.K., in 2014.
 
-He was a Postdoctoral Research Fellow with the Sir Peter Mansfield Imaging Centre, University of Nottingham. He is currently an Assistant Professor and the Program Coordinator with the Department of Electrical Engineering, Qatar University, Doha, Qatar. He holds several patents and has authored or co-authored more than 250 peer-reviewed journal articles, over 30 conference papers, and three edited books. His research interests include biomedical instrumentation, signal processing, wearable sensors, medical image analysis, machine learning and computer vision, embedded system design, and simultaneous EEG/fMRI.
+He stayed on at Nottingham as a Postdoctoral Research Fellow with the Sir Peter Mansfield Imaging Centre before moving to Qatar University in Doha, where he is an Assistant Professor and Program Coordinator in the Department of Electrical Engineering. He holds several patents and has written or co-written more than 250 peer-reviewed journal articles, over 30 conference papers, and three edited books. His work reaches across biomedical instrumentation, signal processing, wearable sensors, medical image analysis, machine learning and computer vision, embedded system design, and simultaneous EEG/fMRI.
 
-Dr.\ Chowdhury serves as an Associate Editor for \emph{Computers and Electrical Engineering} and IEEE Access. He was a recipient of the COVID-19 Dataset Award in 2020 and is listed among the top 2\% of scientists worldwide.
+Dr.\ Chowdhury is an Associate Editor for \emph{Computers and Electrical Engineering} and IEEE Access. He received the COVID-19 Dataset Award in 2020 and appears among the world's top 2\% of scientists.
 \end{IEEEbiography}
 
 \EOD
