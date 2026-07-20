@@ -1,0 +1,1315 @@
+./.DS_Store
+./.env
+./.git/COMMIT_EDITMSG
+./.git/FETCH_HEAD
+./.git/HEAD
+./.git/ORIG_HEAD
+./.git/config
+./.git/description
+./.git/hooks/applypatch-msg.sample
+./.git/hooks/commit-msg.sample
+./.git/hooks/fsmonitor-watchman.sample
+./.git/hooks/post-update.sample
+./.git/hooks/pre-applypatch.sample
+./.git/hooks/pre-commit.sample
+./.git/hooks/pre-merge-commit.sample
+./.git/hooks/pre-push.sample
+./.git/hooks/pre-rebase.sample
+./.git/hooks/pre-receive.sample
+./.git/hooks/prepare-commit-msg.sample
+./.git/hooks/push-to-checkout.sample
+./.git/hooks/sendemail-validate.sample
+./.git/hooks/update.sample
+./.git/index
+./.git/info/exclude
+./.git/logs/HEAD
+./.git/logs/refs/heads/main
+./.git/logs/refs/remotes/origin/HEAD
+./.git/logs/refs/remotes/origin/main
+./.git/objects/00/0ab7e80a12d2062890b322029cb8db5bed8537
+./.git/objects/00/6b438c2f69c190551449f16feb2e63c4111922
+./.git/objects/00/cb8aff745683648a66ef2937a4da7f7fa02612
+./.git/objects/00/ffc76e5fd89ff0a7da88a659984f8e16fde5e2
+./.git/objects/01/3eaaaebe0a1862b81cc60f21fa04a7dfca7205
+./.git/objects/01/5fb000cd74555082b907d8f6fef7f13bfcd2c3
+./.git/objects/01/851438da65a973eb74dfc67424f358c5f69ea6
+./.git/objects/01/fb9b57c736b7fb405e202431135bc684adbc28
+./.git/objects/02/2dd0d628a6a3de78a68525b8223ccf72220672
+./.git/objects/02/62329ec1d6a5ee43dc7ef382cdd414300f651c
+./.git/objects/02/6e5c74431c0c9c0db9a9ba239941f528ff2b2f
+./.git/objects/02/a18b8a50c819b7223c556605a9f3cb5cfcc52b
+./.git/objects/02/b26543da6d700ea7bb1eb63853e54a0b8b4ed3
+./.git/objects/03/9fc2532cfd961a63094429cadc1b140d3a1dc6
+./.git/objects/03/e34df25a1714db8274986cc68f1e104b69b1c6
+./.git/objects/04/63169bff077feee8c9e97b16b5884dbeee1cf9
+./.git/objects/04/7893f1c89a8ba0526b4d4dee60cdd89f57d6c6
+./.git/objects/04/a274d5d29e642ba302a3b649d446360bbd0c96
+./.git/objects/05/727bc7951c48725d399ceaf9d2140989b2e124
+./.git/objects/05/7295ec9a54410fb10148c2c3e10376db213136
+./.git/objects/05/9d5b7a2ce49bd804e391c95aa570c00944caed
+./.git/objects/06/bd00b6730c4f4d886793bb79c9f20c2c3b0787
+./.git/objects/07/2f2bb1314e0c332eb4c561b04d18c624375efe
+./.git/objects/08/06ad1a0d3e7c56dbfdbc1e4797fdb36c7cb70a
+./.git/objects/08/359584ad18b5b2374f41f163b6e5946d09736c
+./.git/objects/08/54880ba2e9deca8c43742c24f91e89775f8bed
+./.git/objects/08/ebf9bc0f4f27cf103fe1acd17bdd5a9ff84370
+./.git/objects/09/b04d90b2026d1a164709b9fd77d91428c71673
+./.git/objects/09/e90ee49c01daca0e620e96097206f166874329
+./.git/objects/0a/1155de7f9057fbcfb846d8b19d62be0c9c583b
+./.git/objects/0a/67e30467b3a900541d68c5fd79a3c629a45d07
+./.git/objects/0a/a08493edb3b891078b0d1c5055a6a6b54f7501
+./.git/objects/0a/ae603332012def896ef99802aa1ce941f19848
+./.git/objects/0a/b810d9b0a41cadc720d0818451a2b021e33593
+./.git/objects/0a/e378f8155eeb344c4d3d6eec2d492aa1950764
+./.git/objects/0b/8fd9349a63ae5d62d4dfe5adc5a78fe1cb4924
+./.git/objects/0c/16ecb4ba7c6e145680c3ff2aaebbf072c7b613
+./.git/objects/0d/05b03bd94f7af95442ebf8292bd48332b4944d
+./.git/objects/0d/0768f6aec652e7578d094059faea5287bfd854
+./.git/objects/0d/109e99df84164e16972ed0004c3ebb76aec909
+./.git/objects/0d/296c9181920ae63b010e28bc519b1fee3ac254
+./.git/objects/0d/3f26764d5e9def53c7e1607cd0f40b5918b3a6
+./.git/objects/0d/c2ab58bfcf87701381b8db4188bda56f1622c1
+./.git/objects/0d/ee34bfd2c603b32c8f7112fe1d93a3bb4a594c
+./.git/objects/0e/cd74642e1b3eb715e8f2796a37fb1a3b30ed31
+./.git/objects/0e/d34a4357de107417b53d999ed8ff951945867a
+./.git/objects/0f/6641eba171cc72ae81c21508ba94c2c4392bbf
+./.git/objects/0f/666159a61c9c4aa279808614788020e8e16c6e
+./.git/objects/0f/6f3ae9a6fe24cab87b5a1b047a8c686f26323e
+./.git/objects/10/48cc1e8bc3f7a2239a5df828d320a8b40fad1e
+./.git/objects/10/c173fd326565aa5af9dd7487de96bbfabcd9a0
+./.git/objects/10/c2bebb757066420e8adb72de61a751ae795118
+./.git/objects/10/fc03f474e8ae3064f3f0bb5adc5212c17b3ad0
+./.git/objects/11/965fe8482c6b89e2e061a728fcd8f7886ad27b
+./.git/objects/11/eac81835a0d4095b7eb62e80239d3b49fef8e4
+./.git/objects/11/f6cfa777107472063e3777b3be1ea0da40026a
+./.git/objects/12/09315fc8382791bc9d2217c760bc6ad089d51e
+./.git/objects/12/0cc21feb00bed23c690e10fb138dad42303443
+./.git/objects/12/388caab3c2c7aa5c916bcf04b6188f96c966dd
+./.git/objects/12/4a26ec6a13da4e3c750960071aa9140f05071c
+./.git/objects/12/bb3bda2e2f9903acd6bd16ce0d6fa73dfc654b
+./.git/objects/12/d549b21718ed1e64c2ae5fd0cae277fded1be4
+./.git/objects/13/3636ea87aff2d2f1a3b0ac37f4eabdc2f33953
+./.git/objects/13/cdf58fcd441902502cf6701ac4061d5564a8dc
+./.git/objects/14/2b22acd96793ea9750cacca3c884822d3bfb34
+./.git/objects/14/41758f53f8e3d293e3cc14e91b4b1795ebcada
+./.git/objects/14/4aff82f50d209f0f2caa57c71d35679df93cae
+./.git/objects/14/a0f504882afd2acba7ad6228fc649dbe7c491c
+./.git/objects/15/d6d7ff4b0e866917308141ade7f2c37048d5cd
+./.git/objects/16/2e2360d30fa3deb42f5daf3a766d39c262d5e3
+./.git/objects/16/ca73d97f761a51144329edbb2dc02fbcbf6c4b
+./.git/objects/17/4e2b9f9ae2b2d970ec5bc4b2a7e9c61e581bb7
+./.git/objects/17/6ce1d270708570caefb26f0914881834d4aae0
+./.git/objects/17/a74422b5dc4c8b3158a5489ef5616e763229b8
+./.git/objects/18/46fc107ea50c091b923b808125f18978418dc5
+./.git/objects/18/7c5185413b2254a374748f80767d6a69929ab3
+./.git/objects/18/962ff22650325d72c47c8a4d21a74dec7adb3d
+./.git/objects/18/e54cf173ce67c362a265d7926817daa95f643f
+./.git/objects/19/0dc49f5828307d790bfc73f3d04b398c3d9c09
+./.git/objects/1a/1d2719f49b903ce4a8628388804f9d8b330681
+./.git/objects/1a/a1c66cbb69117a5c4d8acd9426ae14aa722130
+./.git/objects/1b/34784c9601f92578a99ba113e7d6a8287ae664
+./.git/objects/1b/459e427acf76b280e7a7af745e8f8142976da3
+./.git/objects/1b/4c29c7c48b6c062171a10dd199c6f7ff996826
+./.git/objects/1b/c302753c4ae5a7d4fd588eb9cd69f619219e21
+./.git/objects/1b/d8d67653c927c4ddf03fae3f7383e419b5706b
+./.git/objects/1c/2c24fa663c73fa432e1578085e74fef3c6540f
+./.git/objects/1c/7e94435c7af409179fe5dacf191468df26e7ab
+./.git/objects/1c/cad8bb75d3e1a65e9f5061437428c3d3262608
+./.git/objects/1c/cd103ab9495c19838a55a251021f36351c9aa8
+./.git/objects/1d/0652b84f77fff01c6d57dc8bca0446c5050f19
+./.git/objects/1d/0e3429bf945219d14b0ae63d1e152e4f495bc1
+./.git/objects/1d/10a4a04c137eb147142779e8d912ea51b3a66f
+./.git/objects/1d/70398e72910a8e10c478055d5de7a3d44e7db7
+./.git/objects/1d/8ab08ba523f0e7e6aac6d836cb48ae340e8fda
+./.git/objects/1d/8c0eed548cddcac6bc365fcb8c12cb2397cb09
+./.git/objects/1e/2b82370deb2d94d4d2271fedd1ed8a16f20f42
+./.git/objects/1e/a8c4c54042d887bd363a039dc1c02d01f00540
+./.git/objects/1e/ce5e41ecc7b5d66719675be35eb243bd11da78
+./.git/objects/1e/e05bc247ad313eb99c177953f81f97675adcbe
+./.git/objects/1f/68c057988df6593df26cd6b0fb9f0293c6f75c
+./.git/objects/1f/b9a8058c009993a44e8b60bd17f4068c4f4b0a
+./.git/objects/20/21193643fa825b3d3de38be4c22d4e4d257e05
+./.git/objects/20/37a0b741a9013edb6e269589576cae20d7dd60
+./.git/objects/20/49dbe0bfb93fc01313f500b515455d47728f84
+./.git/objects/20/8dd311f266de0087b1b25aa4445274517aa07d
+./.git/objects/20/9f602660516fecbfa8129067172ce4e330ea9a
+./.git/objects/20/d53708d907c00f508b10fa24707a566d57de34
+./.git/objects/21/08ba8743af0513f9bf19805db68803605b502f
+./.git/objects/21/6809241e4fb4cd52846165a15f2f2f014b5f4d
+./.git/objects/21/9e0d6749d3ea946102c99021b79de81f7f192d
+./.git/objects/21/f1ef7e80aa2c70e30bf1a75818a8240db3c2d6
+./.git/objects/22/f1c6749b517b267af0c95c638f7c201e6992d2
+./.git/objects/22/fdb4cbec3f9d58fe6c2ccf3a0066fa321841b5
+./.git/objects/23/5e24e7b19fabe1083acb405616ff1bcd0cf7df
+./.git/objects/23/ee52cb1660c5b7627afd9c20fd8d7cd0d21593
+./.git/objects/24/4e5d76aea1db10752695b8cc897bcf38e69057
+./.git/objects/24/572c5964773c01fc03cb49455bf5ad6c19c9f3
+./.git/objects/24/65e1515cc9a4ac8f1a70c1dac67ba0e5de4ff0
+./.git/objects/24/6c6dd14c063fe9421774cd924dbfdcacaa7b65
+./.git/objects/24/788ae99acea26643277812cf861e0654cdd68e
+./.git/objects/24/9b194719a077ed260fb9b9190aa5f46026a492
+./.git/objects/24/f86198079f7277d0168a35b5ccc4ef16f6db76
+./.git/objects/24/ff394ac98b9e05018064042850d2f8110453d7
+./.git/objects/25/0781f5bf8d89dd328dda18ddfd2368bbac4cde
+./.git/objects/25/66a6df9817cad22b3139626a4f79bc17cc522e
+./.git/objects/26/fafa7ab56b2c1d95bfeeada347d4702dcc2bcd
+./.git/objects/27/6492fc1c03a19b3b23ef752c548f62399d64c7
+./.git/objects/27/af07e9ea17ce05ae26789a3fbe823dc4e3c481
+./.git/objects/27/c414caf0eaeb322d3c4f20afc868b262c0bdd2
+./.git/objects/28/4e05e604b8fe87026ecee9a0f44d8cb0f9b351
+./.git/objects/28/6ef16f0b8bc442cb03a83bb06c9a1a9d8facfb
+./.git/objects/28/9700e735c2122eb5597af731ac9663d0e4be8e
+./.git/objects/28/bacc4f2a3746e7e8872646bb59b2cacef434df
+./.git/objects/2a/0c81e1590187575cec692b5d70021dc5bbca97
+./.git/objects/2a/59d867c184c363855822c3b14258eed0db25bd
+./.git/objects/2a/5e353b04d01d91ba435bcb067c3b882980f4d0
+./.git/objects/2a/641b5625087b5ad8cd730c1eb3019896f3aa77
+./.git/objects/2a/958ecbfa03eafcff6e5517470e548b7b7742ed
+./.git/objects/2a/ef142d4000820025781a7d40f22293606736eb
+./.git/objects/2b/9b7c100e4b430c25666b9118394b3356172a38
+./.git/objects/2c/8e224c8f042718251eb41300c8d2fcc83c6230
+./.git/objects/2c/9f1b5371a2cd69c063a0b3bcb4b0db3bff880e
+./.git/objects/2c/aca73875dabf41a9bd19032587d7c662ddae28
+./.git/objects/2c/f6c4c2f1c2fb297129905bec5d07c4ad8b13bf
+./.git/objects/2d/2532694ae72eb7d38b7797c9404fea2afb62c3
+./.git/objects/2d/3e243197ba1ae4ec1ca5f02163d4db0a8b0090
+./.git/objects/2e/30b6530297bb5f8705ad41aac74e7f44943165
+./.git/objects/2e/36d2da4e747503c60e7dbb4ab6e1421fd50df3
+./.git/objects/2e/422b146cde6ac10b32b30098785f5bb633bc98
+./.git/objects/2e/53066201405ba5a6485980ce25a6b64904a6b9
+./.git/objects/2e/a9f9418deea52b90b12579803c3fa0180b1dec
+./.git/objects/2e/d10f06446a46611f4cf1987df03af47ca0fb1e
+./.git/objects/30/01402a473f729f95691d6dc6f333d7b8a7550b
+./.git/objects/30/312452ff5cbcf81fa29c15e8f94a8fb250306f
+./.git/objects/30/b945df8d5d487086a7554c71f995b698fc862b
+./.git/objects/31/2289b8d58bddba09973a17fd071643dcfdbccf
+./.git/objects/31/2fc1f6353b717cbacb4fce7e74d4b0e45e7fd1
+./.git/objects/31/37f5ca68b8b3235bb5715bfb35d69726704a7c
+./.git/objects/31/60ee26c9ae5bd3f50db1daff57ec409f343026
+./.git/objects/31/78a51346ee27a33de7e5fc32d40b693b265eb7
+./.git/objects/31/9fe652a1edfed9d966984b250c13d8017e9cce
+./.git/objects/32/67018f5c14716ce6a4873ad6d004852254784f
+./.git/objects/33/afc6fe29d92097149603c74fe62abee39b5b0e
+./.git/objects/34/04a3a7c68b3e0b817eacd30b223059d9722ae7
+./.git/objects/34/066d0949eb8d5b6a6878059f7d8599fefef6dc
+./.git/objects/34/3ebaf5b94fab1aa660b446e81145a523ccad29
+./.git/objects/34/94a97f99f20db678d8503f4d908bca1c19577b
+./.git/objects/34/9a3ef7bfef234a350b4a653af59588c54226fb
+./.git/objects/34/aa2057e0c0171183fad8d810c9b656c21f36c5
+./.git/objects/34/fe8c4465ccb1037ba591a48e3c4437910d403a
+./.git/objects/35/022436572b7496b421bafd6a8d92d449f6fb4a
+./.git/objects/35/0b88cb6734ef142e96635021dfbea7024126ad
+./.git/objects/35/0d2a03784d17b6cf52e1caa1ab96f5afd61dd6
+./.git/objects/35/4e1efabf94fb7286d4e894566d311bb1f3544a
+./.git/objects/35/faf3bccf007fe66ec8f05abe1cf57a8fb00aed
+./.git/objects/36/a5ebc9a5c95afb26f89f2d03370be1fa21a641
+./.git/objects/36/bdeb035dd79c102b2d4dedbb0fe5fb1a577514
+./.git/objects/36/f50b3b5cb0a65b4c24ae213cdf20512acfcc8d
+./.git/objects/37/5bfb9c0d09661356389ff466c2a64f90181890
+./.git/objects/37/5e65f3b23bb09b594da53eaa9ead198cd86e06
+./.git/objects/37/87c2279a0d366c5107ca0d91ff0eecd1f0e39a
+./.git/objects/38/104b7d00b2efc07b61af1dfc16875ef1e29408
+./.git/objects/38/5e4827261dbc780a8e8ab4ae09455acf2f2c52
+./.git/objects/38/988c9fba7f254033d56216b6e75548b83b74ea
+./.git/objects/39/28f137f6d8a0e2c09a7e2a46ba70a54f51ca35
+./.git/objects/39/530b7c9a8b62de6fe0a3b1888b985f534f7ceb
+./.git/objects/39/79f0e7eb2c24d01fd3b7fb97cbc512be61a17f
+./.git/objects/39/ba9dae7f60d5887b701ed1564c042347081c44
+./.git/objects/39/cc4ed884729d8063aec5ca31c353763c399b39
+./.git/objects/3a/bd9a035190f5de7d67fe2ec7cf37b829bfa4d4
+./.git/objects/3a/f83c05d23480df9ecdd788bb3e63a80b112118
+./.git/objects/3b/53bd06e3131ce6f49144fd12be09894e34f985
+./.git/objects/3c/e658f87a68531d968dc68cb823cae8abb96e3a
+./.git/objects/3d/17bb2cf91533070cd04ab4ccb16eadbf7a8f11
+./.git/objects/3d/28d5a464eb75e4b17249058d9dd55631f72d62
+./.git/objects/3d/643f82b6d3cf1047f848a8de93d110c39bd51a
+./.git/objects/3d/f898cc9bf6ed8b9ffc2f713aceb9fb848c70ed
+./.git/objects/3f/f11cf8c02c8b98c5bc08917a3aca25cef317ec
+./.git/objects/40/473f5d282d437e99a42473359b3c46d3442322
+./.git/objects/41/60a5f314487743bacf57b0bf2f5bec81f6e192
+./.git/objects/41/f8f58e9a14595111354cdaf813bae96f0afbbd
+./.git/objects/42/207b9533129a7ae3aa4670ca31a15ab53dde40
+./.git/objects/42/e79ac41ac9c1f6cec3fa16d9fcba76bdb66085
+./.git/objects/43/7e50b64300b11ad97936622984c1b53777f887
+./.git/objects/43/c0c75b7ab8b0143a8a26fc8c514979daeeabad
+./.git/objects/45/357470ea320ef951b0aadee0741549b430b51b
+./.git/objects/45/4f772662eef626e152ec8cba2f18a6fa967b57
+./.git/objects/46/1d243ec87d47b74ffdb3fb569e1fb542a518a9
+./.git/objects/46/25e791e12dbffa05c1ef41719c8068f2fecaa7
+./.git/objects/47/2159441e80c4069b713ee7d0ce3b81a23ee111
+./.git/objects/47/b80e3b57eb32faed37810ea8c7a36636f1ca60
+./.git/objects/48/2ed0ec823a7e1cc161673c8adb865beddc3fad
+./.git/objects/48/87aad0a9b5dbd46790f712f17614b57390bf79
+./.git/objects/48/b33d721bd9558807e905f4249c80e91da098d7
+./.git/objects/49/953eb56b64e3f930a51f54dfcead74cf363fb5
+./.git/objects/49/acc4c4ae8281ac574ecea17958f984643bdf6c
+./.git/objects/49/b2ae87646bac43f5e06bac741a716727c5b6ed
+./.git/objects/49/dd9b764692003eea373a123c6ed228159e3862
+./.git/objects/49/fc9e3d890492f37f3d96aca2488eb59895356b
+./.git/objects/4a/7015e08fb53a7d50493ecd504d079eb7e5c40f
+./.git/objects/4b/5f9f9071caf95821c29b99965930c20a708a3c
+./.git/objects/4b/a598ad2d4f0b3146ad0e5749a4e0045ed4ad85
+./.git/objects/4b/b3203ed676c5f6654db4239936ccc8943a37a7
+./.git/objects/4b/c6d676d8fca0d3ad0c09b625ba0a6a44711d9c
+./.git/objects/4b/ce2d7c2b2a9df461abce27bf4dc101c43a40b1
+./.git/objects/4b/ef8449baa999568dbc4726693c5064516a7f8a
+./.git/objects/4c/10beff8f599fc65b12c9c177677b48935dde3e
+./.git/objects/4c/9b267fa261f9fac7e5a675f79ca1f7439d1a8c
+./.git/objects/4d/118c6f26ad458e4e760037e3a613f6f5925c58
+./.git/objects/4e/73886dafca6c217c716ef975a7c6883387740a
+./.git/objects/4f/17469476ebb195d792b5217fec3aab8a15e955
+./.git/objects/4f/41f75845673b00e19544c9baf53f160bdd86f9
+./.git/objects/4f/752e0cd425be3217719c02fc066763ec92508b
+./.git/objects/4f/ae97b694a7d59a3680d2ed36196180fd0ecc28
+./.git/objects/50/0bcd3e315ce6a63905d91a7b03093c3466089c
+./.git/objects/50/93e553c6d8de311429126d0e513ac7a8b85d6d
+./.git/objects/51/4e24bbb4e5c2d3c68961b6cba86bd7f42eb53f
+./.git/objects/51/718e846741dd7d188aa9b844e138d5a8d43353
+./.git/objects/51/8c4cf507ce1c735e37553f52bb6358e9f4d1b8
+./.git/objects/51/bcf4ee00dc5a8375993d84be65bc972796d4ad
+./.git/objects/51/d5370abcad772885c2cc460ae11f130a6600c1
+./.git/objects/52/024bbb12444dfee14ceac37286bfd8c7ca55f3
+./.git/objects/52/11cd907ae61ea81ef88bfcaad58af09d057bf6
+./.git/objects/52/6738af189e444317fac74a3c70e9ca3a6f55c3
+./.git/objects/52/8e2d27fa881c7cda69134a459115791031f86f
+./.git/objects/52/d67e9c8d9b36921cf9ee3a4515ba3d8ba1f614
+./.git/objects/53/03071fc65a4a9cf48bc9f2432b4a87056d242e
+./.git/objects/53/714ee38316be46538d6460846e08a521b61099
+./.git/objects/53/c62d48b7100f90d9a95e6d20f1f91279d9a041
+./.git/objects/54/203e9e38d2672f5fb350a8ab90ccfbdc2da9b5
+./.git/objects/54/71426fffcedbdd0d814b5fef35975cd20321d5
+./.git/objects/54/837932792450b3002f03c961bf16612fe05225
+./.git/objects/54/f9996aab098be48bc875ad2a104c6c941d463d
+./.git/objects/55/41b793cf27aea20052d3d366a277e6b842e95c
+./.git/objects/55/6c6b19840e843f4dab3c6c11900221c503a5b6
+./.git/objects/55/ca65d1c4fc3e5e1a4381e0072e8b109e46e468
+./.git/objects/56/3acbff36eb3e82fb8c64dd1778d70be002fba9
+./.git/objects/56/bb0fadb63fb288939c79cd750338bfc22ddd4e
+./.git/objects/57/44995a72dad526b1958d8ffadda0bd67a293d6
+./.git/objects/57/ccb7c4809f346457a43d2b74379a0bb5030a99
+./.git/objects/58/a156e1a196cc187c4f0a27525bbde0f35b2c7b
+./.git/objects/58/e2cb6d364693689ba78d1a4d49702afa2a6ab5
+./.git/objects/59/4168b191878ba68617c0f8458b5175a51b9908
+./.git/objects/5a/53da3d92c91daabb1ee60294afd0b41d22e8e7
+./.git/objects/5a/8a31f383af86fb92f9ecc5a76434fc7b397372
+./.git/objects/5a/931b0ac8c83078830e93fd7b06cf7486ca34eb
+./.git/objects/5a/e4b3b346297858e4150d76ef16b9b47236faa2
+./.git/objects/5b/40e33367cfdfc6447b98efb1c21f9991e319f8
+./.git/objects/5c/c5e10d2af1372f2da6339c0942a758c1d6b387
+./.git/objects/5c/d3eb311cad80e0dc8d71443d30aa254a3f097e
+./.git/objects/5d/465642f592c5daa403fc10477d9fcf03ec2d3a
+./.git/objects/5d/b6272513b9cac585178843a8bf126ac6dd60de
+./.git/objects/5e/5de70f075095cadc10b3680e250d5fe75c2523
+./.git/objects/5e/7de1afd4961b8b42450190f38dbea979c72d00
+./.git/objects/5e/d9dc2006df5e2eff328bf0f76452e8180aa465
+./.git/objects/5e/f7ea43064ac42957130722b5ce1854af8b3c93
+./.git/objects/5f/32febd1d7278cd63e49939ef8cea557c0f8c9c
+./.git/objects/5f/56c0c93146333ef66a40b6bab583413d3e7c68
+./.git/objects/60/cf6bb881e227e694adbd6f930dce604ae7be79
+./.git/objects/61/573c01c7bafa1fcc45ba1da9b1a4dc2b4c45f9
+./.git/objects/62/576305c92e928a5ed86cfb3cfb67640646059b
+./.git/objects/63/978e6cdd7f089694f69ee1e8db121071432743
+./.git/objects/63/a6889f87dbde44f144d57248b206ca7093a7a1
+./.git/objects/64/41616709dc8ca597c85715308403c877cd2a34
+./.git/objects/64/4d9823dc6be76a26b3cfe115055fbdaf284c3c
+./.git/objects/64/52b837aff57f44ea72f570099aacccf631cded
+./.git/objects/64/546edf1708c8398780b88f9befec67cc9244d0
+./.git/objects/64/5fb246a1ee124c97e19cbe23ed813a77d17beb
+./.git/objects/64/7051741967a0f9d710d87e2ab6ad761c2f8fbe
+./.git/objects/65/6b3f43bba52c2bc78e6cb8e83a4b348d5ef150
+./.git/objects/65/7afa1821c0423798c20234175e8c6f3e64c247
+./.git/objects/65/a88886d5fcea3941ddb23742978e3582823f56
+./.git/objects/66/2845612b3a9d7a5fd15c2ed7c2a7f70c406e0c
+./.git/objects/66/3a4a850ae3c06352c443498ea07e518b9d08f3
+./.git/objects/66/6e536ff782830897c1ae16ba32d61f9d0e95f4
+./.git/objects/66/7aaf30b8abcaabf882075e70816c4e0a874156
+./.git/objects/66/b4a014fb3940b6a5fa6bcc6339e32a1ae89796
+./.git/objects/66/d051e521482e24859e70a8b446248533379bc1
+./.git/objects/67/249d32c889f96680b4a41780555320afbb8d44
+./.git/objects/67/4e282866147336c0435060e9ccb0b229049ccb
+./.git/objects/67/5557dd1d06959abc3cd60a1e189fa4d4446bd8
+./.git/objects/67/67306cdea014ac9eea097e302113a68f2d05cc
+./.git/objects/67/b5861336e773a08a6d660c5727a4af915606f4
+./.git/objects/68/2f003d4027b9be41cc8c3c69be084a00c51b68
+./.git/objects/69/3514ce332427ecb596d41428370e2ed6620e3b
+./.git/objects/69/7fffd08f1a3353a1b8595324178178dc6af687
+./.git/objects/69/93c077777c10af294cbc8a7230558b20e07f62
+./.git/objects/69/e99486c08a51970916697ec37500d32084b3e5
+./.git/objects/6a/212e175efb46733c473fae154df35456b3a7d4
+./.git/objects/6a/4cb2deb463f1c989f2f862d1f93b672b8370b0
+./.git/objects/6a/71c5bdd3992e2ad87a9a61621a08c06f63083d
+./.git/objects/6b/19cfe1446abe3de0d327edda00c8d07dab2200
+./.git/objects/6b/8e2fcc57425d6ce40a38dd21a4230b483a5fdf
+./.git/objects/6c/a92d43733136a7751e1f81e1e7791dac3d84f8
+./.git/objects/6c/d39c1487eacd14b1695222a8b4752ce3956733
+./.git/objects/6d/1172977e4487c3ded14e517b2572cfe88fc361
+./.git/objects/6d/325ce18c865e5c36bdf5c22c7a27ca24a39930
+./.git/objects/6d/6758b3adeb99ab10e0b8dcef9001b20826dd24
+./.git/objects/6f/c4800e7c5a088ad13804e8d6e6e0273250f51f
+./.git/objects/70/66f30843a91dcd84ca03a4601d57d0f252b24e
+./.git/objects/70/b731873ee26c42268df3750447daa2acd19a9e
+./.git/objects/70/c5bada50f86b067bf5c078000ae85d58419b4f
+./.git/objects/70/ee94ac69f978dda393cf04aa8a77bfdc7fe6e0
+./.git/objects/70/ffbd2e35113954122cf528470f2c428880e447
+./.git/objects/71/000d0e3b61241eebc309c3356cfae369fcea1d
+./.git/objects/71/30bb676dc4e7e5674cce93f89678f502713de7
+./.git/objects/71/974f2a9af7b2dbb4bf907f2d845fa799bba6bf
+./.git/objects/71/a135243dab392cca8b34ec9f6b5117727c2395
+./.git/objects/71/f3c43250a42962d647ac81b7b75c9534a5a6a8
+./.git/objects/71/f4f562fc7a02514c2004303f6daf732e1d00f2
+./.git/objects/72/1160443d7fe6535989762918eb5b1dbae13c64
+./.git/objects/72/52d1cc5a4013c49b308d7dbc72ab884dc26796
+./.git/objects/73/0e528fc8b8fa2d37f3c949497fbb8b355cad22
+./.git/objects/73/6362dfdf7dafa3859adde2c05cd6eb567fbf40
+./.git/objects/73/83c23728c1d97f5128adb68c816c05c9e137c9
+./.git/objects/73/a0c1812d0d0e5dbb615d09cac71b5c1f6f23c9
+./.git/objects/73/a3bfc070ead9d1c840bb400eebd8a689cabfe4
+./.git/objects/74/b388d01359e05bf621b9714fbbc33504ea7fc6
+./.git/objects/74/b891c71e636aafd72631f90802631202508eb2
+./.git/objects/74/c4d41a5c8d40dfa38952d57052e2013f619e9d
+./.git/objects/75/0d3465ce733bb2721764bc1d5c099f3cff0329
+./.git/objects/75/cfea9acef59c5ef2d97cb8d92c370eaaf12132
+./.git/objects/75/d516d1b520b66651508054193a9abc6eaa17d7
+./.git/objects/75/ff1db430fb18545bf514da85de912289db8638
+./.git/objects/76/c1e375b8756a81dfaefbb71d1f97d3afd3a856
+./.git/objects/76/cdbe45c70f8c18866c861060f44561cc99566a
+./.git/objects/77/235c7c42bb54fc1c6545a079f23e64aaae522c
+./.git/objects/77/b3845b8e311ccdaf3a88223bcc7c63ef7cef03
+./.git/objects/77/d0e1b2f324fc07d87daba13eb00cc24e39e7bc
+./.git/objects/78/844f2f25429f193bc3ddf44982af0563143710
+./.git/objects/78/d3ce596529f85f4d45d6fe9b647b2fb602f53c
+./.git/objects/78/db247fcdd64d3dd7b42e067b9f56e108e76939
+./.git/objects/78/fdb503cdb01c991999e8e3a541427c83720c9c
+./.git/objects/79/1358171380b3beeeaedd7f73bd9e7a1c567d74
+./.git/objects/79/308c2511e106f577834a300bd1d83f30e561da
+./.git/objects/79/5fe5d274c97ae3e6dbd394cd607593731575a0
+./.git/objects/79/7796db386ebb32b4b09f11082df0246c46ee2b
+./.git/objects/79/98e1b70a4e706069abcbf4afad46ab22530472
+./.git/objects/79/e1f512b90c1f93d6270f64a8986b52a31962a9
+./.git/objects/7a/2b93c043787190a8a8fc8d4c7f1014d910f60f
+./.git/objects/7a/38c7d28498700d16d39e09d22d389b4b85046a
+./.git/objects/7a/432b8c61b0f4c59c1ea82ffe32191ac572f678
+./.git/objects/7a/7250f4b23b8b436b1f802d29aea61fb448cc83
+./.git/objects/7a/80e40b86799380c73744b93770bdc10630a500
+./.git/objects/7a/99224fa9173dca4ec6baae7ca492d0a4693e37
+./.git/objects/7b/1dacc40039a0cbd45a6a60101f6ec28fbc34bc
+./.git/objects/7b/7d505ef6b8edc27b1531c0e0bcc52d50f6876b
+./.git/objects/7b/e217975881bbbb548c31798ea0abc314ae65ed
+./.git/objects/7b/eadd94d8c7cf8367761d387f0d6143b443fcd3
+./.git/objects/7c/0683271f457e7108c04ff27579271d51730ce9
+./.git/objects/7d/0086c63e654b7072c98078c04b1a7e7eeab3e2
+./.git/objects/7d/31c056627be73f74fd655c1ba19cbbc918c672
+./.git/objects/7d/65372a51e5094366143ca2083523327061cfc5
+./.git/objects/7e/3dad1d6303337b3dff2be521facb5b74e0a5a4
+./.git/objects/7e/49c28b8765998204d2ab86c8e9d436d4516d92
+./.git/objects/7e/a0232467a42056a71678397f6f3dfd29c1fd5f
+./.git/objects/7e/defb745c002cf64b8ad18d4f9aeccc206de73a
+./.git/objects/80/0e9ab2a7f953ac5ab15b764a261fe24416c4a2
+./.git/objects/80/310da1f54f34b9e80e051c5f4baf7914b9e857
+./.git/objects/80/4cef759066140396a3fe4dd491563d1df5e748
+./.git/objects/80/6ea90357727ffe059073f73c4828d1901bb982
+./.git/objects/80/774edbf1bf61affe4818041c1697a1d1498b95
+./.git/objects/80/ab2eac95285f44446f1851edbf1175bddc464b
+./.git/objects/80/d262ed3f96a391bf5604225fddcb31c1b79463
+./.git/objects/81/0958ab81469a73e904228590c9a2798eac01d0
+./.git/objects/81/be25f656aeeeded1d470782add17787a1f42ab
+./.git/objects/81/c3fd2195aec99009ac928296a0646164f11298
+./.git/objects/81/ed01e2d016b34d08c9f1eae7b708ff87ee9406
+./.git/objects/81/f6c7f4308c4b66f7dc2ecb731a7e7ef9a61457
+./.git/objects/82/8701468730abb4fe404f4f24a80732add414f8
+./.git/objects/82/a17dce5257ca5917a4c53a9841695fb61c7944
+./.git/objects/82/cb429db408de6d7f0ad649f884eb229140a502
+./.git/objects/83/041c974bdca2b7e755b4bbbf9c1e38ceff09ac
+./.git/objects/83/9ca1b89f4f20ba01524ce90f1d088b0e252f4f
+./.git/objects/84/9f3da85adc2c02d1361393313e335901dcef63
+./.git/objects/84/dea88c9ce24a93fb3b6c83d55be039be5c57f8
+./.git/objects/84/f00d6a6c37851a0f762135dc76eaf0016fdfa8
+./.git/objects/86/1887bc9041928233e456a5bf5d752953156365
+./.git/objects/86/3c5e5de2d22301c5b646b3b138e0d26c529bb3
+./.git/objects/86/ad0bb2207c340b14aebdf2039c19b824ca4933
+./.git/objects/86/e0276c4fee578422a526c47d685f267f173634
+./.git/objects/87/4ddd8e3d1f887dccb5ef1cb0507b0fbddb8f2f
+./.git/objects/87/54ecafece575311c32631365327c63ace8dfdf
+./.git/objects/87/a201718ed825887c91e2a600ad0de83ba4f7c7
+./.git/objects/87/d117b10d8dd8793419144410a6b8c649712288
+./.git/objects/87/e991837eeab14b2ba28ee2eeddff4d9bad36ea
+./.git/objects/89/123ad8493e80d327e4a90de96b7c06fb1a77eb
+./.git/objects/89/eaca6f01572ccffa1eca4aefda6fa78cb63a3a
+./.git/objects/8a/41327e0aa753ef8fdc00c8e2960b1379f1727e
+./.git/objects/8a/905b4cf193bfcaf65f663fa36a13ed395620b3
+./.git/objects/8b/4f8d5a0e591515446c4286897bf5abac266007
+./.git/objects/8b/a3c405151a169bd349388d2e38c7ed34fe3d70
+./.git/objects/8c/d6ddf39fd0af041459ace23226350aa159c014
+./.git/objects/8c/ed16b410d9ad179bd4d6d94839c82b9076a452
+./.git/objects/8c/f46e066f446b067d94b9ee25f8f9390981d450
+./.git/objects/8d/2b1c6478f81e0e2f65cb62debabbf236fb0304
+./.git/objects/8d/94f8ae3277b2423e57ee523f086033185876a3
+./.git/objects/8d/c34e57ec402a693b7b5ec5baeb3b2fd22c60b4
+./.git/objects/8e/364e86fbbf6aa7c3a02779c7ed3ad6942de46c
+./.git/objects/8e/88d2f45fb228fd8dc22ce62f320a4e17e93d1f
+./.git/objects/8e/b8149b5ef9118d6557b49f9ec5b55df1be322d
+./.git/objects/8e/c30247833b80c00aa8383c05fc3c7298a9f282
+./.git/objects/8e/cb6aa57e3e78ac7e9a949ee47235ba7ac0650b
+./.git/objects/8e/e7b01f0748799a9ea4b18f724fc77a8c59ca31
+./.git/objects/8f/6e4d6580e5fd474030b6271b30d625377b5a5f
+./.git/objects/8f/88008c689a9e8b5dd5a44c233ce15de933bb7f
+./.git/objects/8f/ee342faf4e61ced54cc368d8f5462f8d4bed90
+./.git/objects/90/46f771ca9a5a5d2a6322bc97b0e1c05502eb64
+./.git/objects/90/6e2f89bf129745168b3321a9b4eddc7119fc83
+./.git/objects/91/1a5d306b949b2deb7314961c4d599b8df3aef9
+./.git/objects/91/1a91b9d189a6789384d77c67ca6f5379118120
+./.git/objects/91/2ae5ece64f0b41f93ed3571060fcd9a9a9997f
+./.git/objects/91/9556c296a01bac50896e85ed59ccd08921444d
+./.git/objects/92/4b1ed3e3c27080dcf5d38889aefd308d3459ef
+./.git/objects/92/fd1b27f73bb7ccf4e4377934ffdef7e76afa36
+./.git/objects/93/1f847c094b9cd09ede10c56bdf008972cab71b
+./.git/objects/94/469380029aec31a9d8690a8b068d340f47ee7a
+./.git/objects/94/65bab8943b791b453684f57df85b1c18f3b31f
+./.git/objects/94/d8d0a3b34014425a0626b991581c41db4ae264
+./.git/objects/95/6a955dc899cbb8156d8ce7255f8269ff3b612b
+./.git/objects/95/7dcf711e44802a13e0ca8c61bd52eaa6c56093
+./.git/objects/96/4c195c54e1755242ece8a53458743901bd9f06
+./.git/objects/97/83dca37fcba2860b8e31899297efbf9d166750
+./.git/objects/97/9e8d1c54143776708c40724211e11fb267eb00
+./.git/objects/97/9f1fbe01e73ab52ba61a018df80afa4d6be474
+./.git/objects/97/a5a5f7985291f6c05dd9bd3695db57f564347b
+./.git/objects/97/aa3a6f9be7319ad46281e5d2123082a700d817
+./.git/objects/98/29a3018c5441223582a72a00b3d754f24f194a
+./.git/objects/99/51f585698cd4800e0762bc78042d1463fa3699
+./.git/objects/99/84aaecc5fa8df7adfd078a89768ff58826dcac
+./.git/objects/99/e705a36445e890a66d8fb827687ce23f6cb0f4
+./.git/objects/9a/2289d839a5048a939d1f0ed08b5653e40d5a79
+./.git/objects/9a/4c5db14bbb83c71d6f1c69449369e87270eb99
+./.git/objects/9a/9690ca6658ec6112bdddad0e5638598e80436c
+./.git/objects/9a/9c2b14d2799ac6f022b8e3a7df514520369925
+./.git/objects/9a/be857414af8b3262811c1630c9ab6ea9478140
+./.git/objects/9a/c0aead984bce5c58048f815c94c783bfc511b6
+./.git/objects/9a/e2dfbf980bafeb32730267f1fb84bd634ecd7f
+./.git/objects/9b/39e6e28a0579072e2403be3e45be2f96e92aad
+./.git/objects/9b/97d266b5a644676b6c326c07a79784c0474022
+./.git/objects/9b/c0ee13fb594cb97de98cfc960f0f973df5c01c
+./.git/objects/9c/19ab2d4a864c79a5c1df71f8d4e13e2639ec83
+./.git/objects/9c/9540ddfa8917fe0bd08a76347f2de5e1a39639
+./.git/objects/9c/e9241cac11be80556146b05654c5523336e57c
+./.git/objects/9d/13806f7732b3db5bf429ffc8a2c11de37810d5
+./.git/objects/9d/f515e0732ee58bef0514338ebca5b98fab9b9a
+./.git/objects/9e/08c0b473feacadd33a5fafd3241028d41bdf82
+./.git/objects/9e/6a7540f8e9871f9f62441c018c76c2c3989b78
+./.git/objects/9e/89e58e56c376b34efbbb99de6ef851870f8b31
+./.git/objects/9e/b19ced8ca8ff72d7a130a4db8fd876a9b2fb78
+./.git/objects/9f/b6ab5aef66c183483bd920f1fa6a8659de8681
+./.git/objects/9f/cbac3b23ee5ca9d6e80237f7c20137b3ddaf83
+./.git/objects/a0/2f54018914c58661bb744d8cf140efd97ee074
+./.git/objects/a0/d5740ee693b2e141b63344034b04149a4e0b20
+./.git/objects/a2/95d47214c25f7206cf9d4bdb03e5012911b144
+./.git/objects/a2/c72235e3bf8a8b71026a05e29e15c14bf1f9b2
+./.git/objects/a4/14203e57f33f8c2c3633e8634d7e0370105ada
+./.git/objects/a4/4553353d35c960c56ba89e7224e51000243cb0
+./.git/objects/a4/ffcde444538ef3943a5102ba14ff9297d8f45e
+./.git/objects/a5/27c082033d17055fde53fccf0e6520b1185694
+./.git/objects/a5/444ffe21bdcc02e25aed2908c92a34e0cbf768
+./.git/objects/a5/5237ab24da389c5c8b978547b97464cf442375
+./.git/objects/a5/7b8f9f0dcb44e36aebd05037e1cd5c3b594af0
+./.git/objects/a5/87d59ec66e4806eb0f69de709623a8e9b99541
+./.git/objects/a5/b3463f570c4e52fa99448fb832c6a4e285bd30
+./.git/objects/a6/7dbb72efdea55f218c848043bead90936de7c1
+./.git/objects/a7/b9ff670b9798d6b36c879ee84e6587a83f5e53
+./.git/objects/a7/ef8db29cc2a46c4b2440a7d06641249ab35c04
+./.git/objects/a8/19399df282fb6cf0aa81703a96e35ccd4968e7
+./.git/objects/a8/6fede4620498909d5e5411a1336c86f2c44087
+./.git/objects/a8/df3ba47790e34eeec75c473e4aaf57933066ff
+./.git/objects/a9/2e38680ab1a8299313b7718a3af1bf149ad2ca
+./.git/objects/a9/dda9a76c94cb42246900af75fb0616fc2358d5
+./.git/objects/aa/9cd8b7e3b27943656f70d7ccb8c7f9cb9e9f79
+./.git/objects/ab/b8b0191434d4031c08b76c019ec17ac34fa4cb
+./.git/objects/ab/cd9e019f9433faf04823a490250f6dfae59084
+./.git/objects/ac/bc7e792e7643d691ac43fde13b1e8aa42ee48e
+./.git/objects/ac/c23834bc38ce8654f88ea5de5306f2cf382be0
+./.git/objects/ac/d6f8a6a0375ff80e11762870d8ad175e84506b
+./.git/objects/ae/74fca76bdc288b78fadea5b9aaea4a04e113dd
+./.git/objects/ae/871c5a787922350ce9966c609908d8b8a2d4db
+./.git/objects/af/cc09031b530897cb2b9b6475d70b0bab6a9673
+./.git/objects/b0/f354c7dcaf6a2f053800f44f5e5ffe8d526ca1
+./.git/objects/b1/4fd5682fcd11ed39b754c554d5f480ca86e21a
+./.git/objects/b1/7b7786367b213ac169486974c6c65e7ff64706
+./.git/objects/b1/c3b0d59bdfe1e245a19820a978593a3c98d7f9
+./.git/objects/b1/dea9ca8cf67f7dc4432addfc466234d236731a
+./.git/objects/b1/e346d6f1e9b8ddef90586d247429d4b316af12
+./.git/objects/b1/e9ed9953330c40d197a753c9fe4de8a6c4aa1e
+./.git/objects/b3/0332cab6747de13cf9b0c551b20701848166f0
+./.git/objects/b3/1fa4a49c0ab0a155d3929ae2d4f8fd9752c119
+./.git/objects/b3/8365919993d0a2e750827f779c00ce1c1cfc9b
+./.git/objects/b4/176937bfb89bda6ea67949eada425ef1475bd4
+./.git/objects/b4/52a1fa0690edd1ece0029fee2e293f030a780f
+./.git/objects/b4/5be2f35ebaf7c7bcabb4f2e66cce18e6840fa3
+./.git/objects/b5/1ea16daf7932d2cf213ce02c9dfdb6f2e2c230
+./.git/objects/b5/1ef395e261825690d4805ea5432376035ffeb6
+./.git/objects/b5/3103f20b8e0ebdad0516a1535dbb56a75a1109
+./.git/objects/b5/3abf47f558ca3c077e34a75fe63fe6004c54e6
+./.git/objects/b5/52fb9494a1465b74514cbcc70e6034e7522d64
+./.git/objects/b5/5a68366bd05d7212e6578b30020bb5d79ab48c
+./.git/objects/b5/623a278318fb08a347edb072ae3f0698cc93e1
+./.git/objects/b6/d9415bc25c50b171685c9135a76c026afaa23e
+./.git/objects/b7/05943ff213a98a5bff2a19903f8d175a69775e
+./.git/objects/b7/1f5c187de37128de4ac7b12d297b0f1225ff11
+./.git/objects/b7/4524b671aa46cb60850239bc21637f0cadd535
+./.git/objects/b7/5613b06c5a3ac978593abffcbb9aae7044896d
+./.git/objects/b7/660a9fbec0eb0eb2a3762424d38c544835baa6
+./.git/objects/b8/5369f4130f41f9cb1426c6834bf39d1743de27
+./.git/objects/b8/83e774a0b182c029b4397e9f0b268a89a2a7ea
+./.git/objects/b9/14d1d52eaeefc8a718e075dad707faadcda08a
+./.git/objects/b9/2347bc48b8aafe54f56e51ddcfec682230c13e
+./.git/objects/b9/4dbb229422a32829f5db007dbacc285fdb6a4e
+./.git/objects/b9/bcc411aac5a476db99f1c91eb4903e0cdf5622
+./.git/objects/ba/01aa5ee83270a232af2589fda842849867db07
+./.git/objects/ba/01e19bafaf20d947227c95f349d93428821a7b
+./.git/objects/ba/298bfdfcd82e7b402bbcc0eadadeeb792ee0a5
+./.git/objects/bb/0501390f9f68875013388a4c61778ffa3d7cda
+./.git/objects/bb/0e7bb2e74d268e25a780854a761a84c8354fb1
+./.git/objects/bb/46af560542ac42f0478cc46fcf30a71da3a076
+./.git/objects/bb/a73e3edaa5d19fa857c00ce0b49ca51e295ede
+./.git/objects/bc/fc7e3580737bc7875ddeca6ca9754ec6043717
+./.git/objects/bd/05a800685146c53887bb6403ded40299557a43
+./.git/objects/bd/8316e97581aca96cffccbc0d9e534a7bcb14bd
+./.git/objects/be/55740842f8dbd9e5cd9f707853fa97938ad8f2
+./.git/objects/be/9c3673935424596abcee946c23893ccae9eac5
+./.git/objects/be/a1bcc5468e8f49dfd7f89df3219f5de555ceee
+./.git/objects/be/bb825af537c8ebe57676ff7938bb184f1c0379
+./.git/objects/bf/0da878fb1f820a1790f5b5c94ffeb5986fd7de
+./.git/objects/bf/416a791bd36c1d3d288a8c725c4e0f4cadaf65
+./.git/objects/bf/bc6cbacb3dec67550bba80b82e4ea6ccb37434
+./.git/objects/c0/25902d166261d65e65686eabb2e5f9e93550eb
+./.git/objects/c0/42b9d44ff2d7e05608fe0b85334a4ae7822553
+./.git/objects/c0/4363a66b95428a352dd1cc481f35728aac5310
+./.git/objects/c0/b4823d04ab595f81037ca9577a54eca34ced9b
+./.git/objects/c1/1f02e0a4d0a491ae189d63a75afe0ddb8091df
+./.git/objects/c1/3827c03507c06ad2456883860fd7eaec1ecc11
+./.git/objects/c1/7423db2adeafecdb7a11b42c3f9b9d98721a7f
+./.git/objects/c2/4c826b10941b12bf31b6ce90e1ed10340d8b36
+./.git/objects/c2/db2186ad1afce731ada07b89d83c39567509d7
+./.git/objects/c3/0d1d43ec42e9c2f1682b9e07db062ce30adc75
+./.git/objects/c3/89779186c1c76cbcb9dc5a06f4cacae1d54aa4
+./.git/objects/c3/cf58e6fe26ec1fc928387ef05e4c846f62dd4d
+./.git/objects/c4/212f5ee90909546db03338305525ef4c62809e
+./.git/objects/c4/47bc9764a4c99afb189e7eb0b4ba1625b1ceeb
+./.git/objects/c6/e6c881e012090157e5a543b6a50f9072ca1d6b
+./.git/objects/c7/0f74b434dab1f3b714a8b68d03b8aae4ba77af
+./.git/objects/c7/6a170bd3fd42332d081f0aff63e34010a5f9c6
+./.git/objects/c7/a8d23e15edb3e2c769747ff7555eb6703cdfa5
+./.git/objects/c8/7bf0a1bf76ebafa4a827a485d74c855f8dbe3e
+./.git/objects/c8/d55e132d72a5d2a39556d2c5a5cfb8c6cd8e79
+./.git/objects/c9/39977371bece69d40e40b291af45b367666d16
+./.git/objects/ca/2ff061824161ac19150040e1119456fe139b2a
+./.git/objects/ca/4731e139a5c380d8014949831fbe4a583f5f00
+./.git/objects/ca/8cb549b63a91dc2b73dde8caf80ee062f9a022
+./.git/objects/ca/96d5e74e319dc385493e42669f6836eb45a6ee
+./.git/objects/ca/ca53cd41bcd8d30cf60be7ade26c5c9da1b942
+./.git/objects/cb/75a2be766dfbc7ba301a75ca67b2ece1fab3ba
+./.git/objects/cb/a7b35d41fa8e27b626b2cdf9f0febb83f3a47c
+./.git/objects/cb/f155005b058470e0756a245d8c4e538e6fffec
+./.git/objects/cc/4f551776416f66f4c1dde8bea2dbf502ad412d
+./.git/objects/cc/d4b40d81a0b27b7f7a1f50030e7cbe3d85d46b
+./.git/objects/cf/7ffe6a97881f0af4ddb43ae220b4c4249e8f53
+./.git/objects/cf/b6330e49dad00f376600f0ab5e3bf48dc5077e
+./.git/objects/d0/4b562ae8bd5eaf94b36ecd096d0eb4c73f2d8b
+./.git/objects/d0/cb98e6a20eea550bb7bd3d13143b2eed437a6a
+./.git/objects/d1/13defa4174e481bae080d367a8047b0ae8945f
+./.git/objects/d1/36f4f212acf2d17c78bd435d9c8ff987ef9872
+./.git/objects/d1/498dd1db10ca746a24a83c8df7be4356ffd748
+./.git/objects/d1/aaf43d898f8ced733d811d10a33efc74ce1c5a
+./.git/objects/d2/16ef6d3ffa99387eb5fe597ad078823aad9963
+./.git/objects/d3/06d90307d24e8bf165d7436b8bb5ef4bc8178c
+./.git/objects/d3/efe3f659ef16fddfcf61621ffd5b96846dcb8a
+./.git/objects/d4/823b5ac61d88aeb70f456663605799bc355280
+./.git/objects/d4/85b4512618c948f0253d55e66af9690ba3a59e
+./.git/objects/d4/a22d1f0e2e4c097e984dbf698c24e9643a5dfd
+./.git/objects/d4/c7976a3add74c41ba934044893c2fb7863f87e
+./.git/objects/d4/ca8ebd209624a83ee6d72bc06f9cbc15a0bd1b
+./.git/objects/d6/32bb3482154f1e2f14bd8051df68597e9456cf
+./.git/objects/d6/561511f2596fd80fb4ee87c92fea7e4c841b99
+./.git/objects/d7/2ee0e74d541239cdc90fe74c953eff17a70eae
+./.git/objects/d7/380a66a10588d0ce2f6a0afe2629de5680da00
+./.git/objects/d7/d49b0d985e987dbc90e2d4762d251d95d546e6
+./.git/objects/d7/d53ad6fc8c8fee80c8be1a936154f918d129d1
+./.git/objects/d7/ec8531b353897cf48317f698c7cd72ab4201c5
+./.git/objects/d8/2ef872f2664b1fdaa78b711caf1152f788f7a6
+./.git/objects/d8/675b3f72cd36350889b214deaddb88717bccd4
+./.git/objects/d8/71a2fa126a5608c5b620908794cc7183e31d87
+./.git/objects/d8/b0f8fd6e7b7dd0276aa2bad2d9d8071012a2b4
+./.git/objects/d9/3d778db15e35a950d184bdd2c4a36cd357f810
+./.git/objects/d9/c691d3173cc5760d4b27facc53bc56664ad4fb
+./.git/objects/d9/c7c38beaccd218207b73f0cb674d09347404af
+./.git/objects/d9/ee97b0973d3959266d989abfe5aa3fffc85a9c
+./.git/objects/da/9819fa7626ec584564cc9d42d37af4756fa7da
+./.git/objects/da/d897954f74c086b4768ce92815fe45def8c335
+./.git/objects/da/fad281dc8ed684d302e0bdc4c77ce2e7248c2d
+./.git/objects/db/009fe73fe757cdcb18251db4fb9b07a43423fc
+./.git/objects/db/ea0b2862cfd1a3719707e1b0b60f01cbcc868b
+./.git/objects/dc/0176932d5ff75d0804c1648fc68941f7ff2d0e
+./.git/objects/dc/31d9d5cf44156905755e22ea746bb659a6ed4d
+./.git/objects/dd/823ac07508824ed8f8417a6ae38ad73ceb91b3
+./.git/objects/dd/aae3c8fea80e4d50c294246a5637961a951245
+./.git/objects/dd/b574663f6717949c3a62c038d865eed4e5a02a
+./.git/objects/de/d9183a051387cd266d0c19088609ad30a0d658
+./.git/objects/e0/507e5b723a28acdd5cae7d0ec0270988368de3
+./.git/objects/e0/6ec5ab2bab826423c2cf918aff4f39f4d661d3
+./.git/objects/e0/9cfc33f7e2b3ac7ba1f97aae690bc02554c9bc
+./.git/objects/e0/a530b0b128a79a0c77182f62b1490ef3ada41c
+./.git/objects/e0/f11e2ac4d095f4a504d5a9c9f9075da3a8f79e
+./.git/objects/e1/02025bd8664e66689420f5380ced07153e36d5
+./.git/objects/e1/1ce72d23c98dc488e39312e23796078329b142
+./.git/objects/e1/354e3fffbd0ff65b35118b60d6f73ef22899ff
+./.git/objects/e2/580d402806961b7f9cc6d073e42310bf25711a
+./.git/objects/e2/821db49e6b74c0457fb4854e9b30cd1d37eecc
+./.git/objects/e2/8a173bfd0b9828884155d11d3811ccdca31f24
+./.git/objects/e2/8b3e3707bdd2b8033c2126ca12f1f0f97034e3
+./.git/objects/e2/ba112bc465103d87e56845c49f0807e32499a2
+./.git/objects/e2/beff6bfd631f42cd0d2c11eae24f8abc2fb5c4
+./.git/objects/e3/a61168b0b0a3cdf99c3dc29a375daecef1dfe0
+./.git/objects/e3/cc4083c1b15cf7c49c7867409dfdd3965895ea
+./.git/objects/e4/0b41cd9dd590e2adccec259985384ef5a54bd4
+./.git/objects/e4/3b4e714015f48b2acd0c15a6dcac1dd8bea6c2
+./.git/objects/e4/ec947fbee3c4fb4709737890098ad4d6bf4f7f
+./.git/objects/e5/59e32b44a5ed56a8c2e82ac79bed07a744a45e
+./.git/objects/e5/9be880cf670dbf8d9c2b7ef7326918cc3050f8
+./.git/objects/e5/ba7459c121fbc091dc134ce1f854e6392879c3
+./.git/objects/e5/e04644b8ad41c5af9e9710ec91b251de5fc6b1
+./.git/objects/e5/ff9696291031f307c1c2c545a06045f070bf02
+./.git/objects/e6/3d2aaee2da0cebdee4ee541e50054a60028ea8
+./.git/objects/e6/77f86c0c26ad53ba619cbb3e38348c18da8bd1
+./.git/objects/e6/97982fd3a33547fab02c04f57fc5c2b43d36ca
+./.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+./.git/objects/e6/acd2eced945b4d2605c64956e72222686f0f20
+./.git/objects/e6/c15476326a05c9cec65c62cd60cb05e2de4546
+./.git/objects/e7/30e12a522f91106fb277af706692d3f75c878c
+./.git/objects/e7/61c896949895f2821307830d1a9a28df1e74e5
+./.git/objects/e7/6a67e058640ab355d3396e6d0c46867dc09dec
+./.git/objects/e7/86de2ad8f5ef51217dd0322508bc21734bbbab
+./.git/objects/e7/a2fa667de671f6b1b6bf614e3c88feac7eb379
+./.git/objects/e8/140bc1195e28e390f7e0d0788559f5615856a5
+./.git/objects/e8/4857e65291613684ca9e015375c7e7fc835617
+./.git/objects/e8/6a5996136320dadcca531c112ce19763fb60ee
+./.git/objects/e9/34d77cc77eefc2d273fbe40f9c4ddba17f217f
+./.git/objects/e9/6fc4c268f376f4fc25b4b673b9b6e19e997ac0
+./.git/objects/e9/841643a53bc5ec2951f6ad41fba88dcfeed3a8
+./.git/objects/ea/2c5d4e94f178c822f04ba1b52f7f35132ac18b
+./.git/objects/ea/2e9b0cdba64d9dc6e4133f4a6cdf3f4f72f16a
+./.git/objects/ea/382e21fe14a2d41954a97f012aad0754925717
+./.git/objects/eb/03e88f94935f66a9a700d6e57951462973eb61
+./.git/objects/eb/0b3b19d5fc60a4f37635dccb3e9010387afb68
+./.git/objects/eb/1a9a1d0941bd2f0928a2958a8f8dabc983c467
+./.git/objects/eb/687396c736767e1ee2d47aaac0809dbf21c953
+./.git/objects/eb/74fecf5ade9b22a10c06df1e1bde921d39aa7d
+./.git/objects/eb/9a03b66f01bde82a62dcbd9f48f132cf6209a2
+./.git/objects/eb/c963b290a6718b8fabc4100869a93de0ab00da
+./.git/objects/ec/33a18a17c00d17612b38afed683b5e90593ae5
+./.git/objects/ec/78d335e80cdc7fe45e326b357145aac0418770
+./.git/objects/ec/b598547521c8028a6fb6212eb601c6c5b3d615
+./.git/objects/ec/bc61e2da1c6396196219ea7fb1cefa49cab181
+./.git/objects/ec/c29bf58d9e5fdd108e6c8592601c8c3c6e2a58
+./.git/objects/ed/5a397c34e5b42e1cdc250aff4c6b6e2e092ac3
+./.git/objects/ee/17805c29c1b463f0b2e0652ca48d6800e8c70b
+./.git/objects/ee/2a6c75e1e0cb9a0e982270e5cf0ac04de0ef2b
+./.git/objects/ee/e01ef7dc71792caa15380843023d15e7519110
+./.git/objects/ef/c2b3df2ec2fec28201394eaf3f41b22acad275
+./.git/objects/ef/e5a9f4ac4b76874d9a818be3d392b38203cc76
+./.git/objects/f0/404c4f7332de1b2498da668d77ca983495b246
+./.git/objects/f0/7ca9f48aeda5bea05829502e75b43e764041c3
+./.git/objects/f0/ab005a4ba11e709ad5c741777d7c9857de6b86
+./.git/objects/f1/2f0abe0078d27d06625d223dfe48c89e3536cb
+./.git/objects/f1/686a09edce8b7273461c73b4015338e5bb2178
+./.git/objects/f1/e0ac52805b2c84ebcf767495992da24c3f4dab
+./.git/objects/f1/e5fda288872ecd2e3208b3593d8d2f5bdafbf1
+./.git/objects/f2/4ae9d8d1a6c77017697d630f0cc648e7c8f99e
+./.git/objects/f2/58bbb4c416dcc5b6875d298195d5a7f4dcbcce
+./.git/objects/f2/66cd00c1dd2fd7dab3709320b27a05f23d7847
+./.git/objects/f2/d4d9d0c53f87a222f1cf9f8eb07b4d166d032e
+./.git/objects/f2/d94db7b5765e15617c418387781d6e0459493b
+./.git/objects/f3/0714815c9827e66767cb31473e57536d661c2a
+./.git/objects/f3/3af8b861dc5c494d45d3bdefadb7f56c9d8e46
+./.git/objects/f3/4adb46dc0c7778c19ae8516f75122b2d31dfd6
+./.git/objects/f3/643d311759967ac9796e51443f5cdc2b42bd43
+./.git/objects/f4/4176a44ebc4e522800f0a6744eb83beea6fec7
+./.git/objects/f4/ec1de147969d7366c1e6c59f8956efc11b9593
+./.git/objects/f5/3dac44a34fc50268669ea63a371084bf833325
+./.git/objects/f5/d515e7830e0cd3d0d5595239e59c9e5808cac7
+./.git/objects/f5/e6ddc1478fee2599854866991b1a93d4722bfb
+./.git/objects/f6/8096675aef494e6a9b0a02697a9c97067739db
+./.git/objects/f7/8891d4a4d547d5289d5e2d7ab173450a531490
+./.git/objects/f7/c43d488773428b0f3936579bb9f88973c14ccb
+./.git/objects/f8/41c4e3f2e8241e8d28b2c0bcb0b16c150952e2
+./.git/objects/f8/a1c7da5cd0f300c9f17de582df1fd8062d60e3
+./.git/objects/f8/a6f2e2f341e62efaf2bab639dc562fdc56d6d7
+./.git/objects/f8/d409a1923422cb5ccee0c845f2a4b12a06759c
+./.git/objects/f9/29bde33093f79fc15d65e4b046cccfa8ec3a78
+./.git/objects/f9/3e4a11fdfcecc959f1afbd9d6ba7cb7d6367c1
+./.git/objects/f9/c03d79f4fb8df4cd260e69258dbba3bb4dfd04
+./.git/objects/f9/e2334daa96a979556e3c6db56b1dd7141e3cc0
+./.git/objects/fa/4d8ce9f59ff9dc67817eb4f2f9c52a21bca1fd
+./.git/objects/fa/5c35daf962c11bc91793bdabc6abf2fb2a2025
+./.git/objects/fa/f2f6a04465e6c6d5939accaf892572bc0df527
+./.git/objects/fc/729daf72064d84d74f2789e00cf733a58fb05c
+./.git/objects/fc/bec67d523007aca93a2b70cf52e94f3981b976
+./.git/objects/fc/d78b98d74680d8aa9ff232cdb4d8f6f0210c1a
+./.git/objects/fc/e09dbf35b27f66d9c113eeef1d2d209a3b9307
+./.git/objects/fd/38047a448f7e48c2df7a50ab23f058dd8da349
+./.git/objects/fd/5e32a2842834876695dcd471c2db3e4f86ce87
+./.git/objects/fe/24ab1d51984eb40fde155526328dad77f010e6
+./.git/objects/fe/3c47c7d8abccf75899fbe750472934c87c90dd
+./.git/objects/fe/cd4958f28d35118077e88ff292ec2ac8874549
+./.git/objects/ff/358adba744eb20b58b68300f0f68f9d561f8c2
+./.git/refs/heads/main
+./.git/refs/remotes/origin/HEAD
+./.git/refs/remotes/origin/main
+./.gitignore
+./.vscode/settings.json
+./00_admin/dataset_registry.md
+./00_admin/experiment_logs_final_masterclass.md
+./00_admin/models_and_links.md
+./01_data/.DS_Store
+./01_data/Readme.md
+./01_data/external/.DS_Store
+./01_data/external/glove/.cache/huggingface/.gitignore
+./01_data/external/glove/.cache/huggingface/download/bn_glove.39M.100d.zip.metadata
+./01_data/external/glove/bn_glove.39M.100d.txt
+./01_data/external/glove/bn_glove.39M.100d.zip
+./01_data/external/glove/bn_glove.39M.300d.txt
+./01_data/external/glove/bn_glove.39M.300d.zip
+./01_data/interim/.DS_Store
+./01_data/interim/README.md
+./01_data/interim/cleaned/.gitkeep
+./01_data/interim/cleaned/banglasarc3_clean.csv
+./01_data/interim/cleaned/banglasarc_clean.csv
+./01_data/interim/cleaned/ben_sarc_clean.csv
+./01_data/interim/split_manifests/banglasarc3_binary_test_hashed.csv
+./01_data/interim/split_manifests/banglasarc3_binary_train_hashed.csv
+./01_data/interim/split_manifests/banglasarc3_binary_val_hashed.csv
+./01_data/interim/split_manifests/banglasarc_binary_test_hashed.csv
+./01_data/interim/split_manifests/banglasarc_binary_train_hashed.csv
+./01_data/interim/split_manifests/banglasarc_binary_val_hashed.csv
+./01_data/interim/split_manifests/ben_sarc_binary_test_hashed.csv
+./01_data/interim/split_manifests/ben_sarc_binary_train_hashed.csv
+./01_data/interim/split_manifests/ben_sarc_binary_val_hashed.csv
+./01_data/interim/splits/.gitkeep
+./01_data/interim/splits/banglasarc3_binary_test.csv
+./01_data/interim/splits/banglasarc3_binary_train.csv
+./01_data/interim/splits/banglasarc3_binary_val.csv
+./01_data/interim/splits/banglasarc3_ternary_test.csv
+./01_data/interim/splits/banglasarc3_ternary_train.csv
+./01_data/interim/splits/banglasarc3_ternary_val.csv
+./01_data/interim/splits/banglasarc_binary_test.csv
+./01_data/interim/splits/banglasarc_binary_train.csv
+./01_data/interim/splits/banglasarc_binary_val.csv
+./01_data/interim/splits/ben_sarc_binary_test.csv
+./01_data/interim/splits/ben_sarc_binary_train.csv
+./01_data/interim/splits/ben_sarc_binary_val.csv
+./01_data/processed/README.md
+./01_data/processed/binary/.gitkeep
+./01_data/processed/binary/banglasarc3_binary.csv
+./01_data/processed/binary/banglasarc_binary.csv
+./01_data/processed/binary/ben_sarc_binary.csv
+./01_data/processed/ternary/.gitkeep
+./01_data/processed/ternary/banglasarc3_ternary.csv
+./01_data/raw/README.md
+./01_data/raw/banglasarc/SarcasDetection.csv
+./01_data/raw/banglasarc/ben-sarc-a-self-annotated-corpus-for-sarcasm-detection-from-bengali-social-media-comments-and-its-baseline-evaluation.pdf
+./01_data/raw/banglasarc3/BanglaSarc3.xlsx
+./01_data/raw/banglasarc3/bensarc3.pdf
+./01_data/raw/ben_sarc/Ben-Sarc.xlsx
+./01_data/raw/ben_sarc/bensarc.pdf
+./02_notebooks/01_data_prep_clean_dedup_splits.ipynb
+./02_notebooks/02_classical_ml.ipynb
+./02_notebooks/03_author_dl_reproduction_clean.ipynb
+./02_notebooks/04_author_frozen_transfer_upd.ipynb
+./02_notebooks/05_banglabert_baseline.ipynb
+./02_notebooks/06_multi_backbone.ipynb
+./02_notebooks/07_adversarial_core.ipynb
+./02_notebooks/08_pipeline_search.ipynb
+./02_notebooks/09_final_model.ipynb
+./02_notebooks/09b_fgm_awp.ipynb
+./02_notebooks/10_cross_dataset_transfer.ipynb
+./02_notebooks/11_ensemble.ipynb
+./02_notebooks/12_significance.ipynb
+./02_notebooks/13_calibration.ipynb
+./02_notebooks/14_error_analysis.ipynb
+./02_notebooks/15_results_finalization.ipynb
+./02_notebooks/17_finalization_consistency.ipynb
+./02_notebooks/18_reviewer_ready_multiseed_cross_corpus.ipynb
+./02_notebooks/readme.md
+./03_checkpoints/.gitkeep
+./04_outputs/.DS_Store
+./04_outputs/finalized_outputs/MANIFEST_sha.json
+./04_outputs/finalized_outputs/diagrams/D1_study_overview.png
+./04_outputs/finalized_outputs/diagrams/D1_study_overview.xml
+./04_outputs/finalized_outputs/diagrams/D2_data_leakage_control.png
+./04_outputs/finalized_outputs/diagrams/D2_data_leakage_control.svg
+./04_outputs/finalized_outputs/diagrams/D2_data_leakage_control.xml
+./04_outputs/finalized_outputs/diagrams/D3_cross_corpus_protocol.png
+./04_outputs/finalized_outputs/diagrams/D3_cross_corpus_protocol.svg
+./04_outputs/finalized_outputs/diagrams/D3_cross_corpus_protocol.xml
+./04_outputs/finalized_outputs/diagrams/D4_proposed_model.png
+./04_outputs/finalized_outputs/diagrams/D4_proposed_model.svg
+./04_outputs/finalized_outputs/diagrams/D4_proposed_model.xml
+./04_outputs/finalized_outputs/figures/D1_study_overview.png
+./04_outputs/finalized_outputs/figures/D1_study_overview.xml
+./04_outputs/finalized_outputs/figures/D2_data_leakage_control.png
+./04_outputs/finalized_outputs/figures/D2_data_leakage_control.svg
+./04_outputs/finalized_outputs/figures/D2_data_leakage_control.xml
+./04_outputs/finalized_outputs/figures/D3_cross_corpus_protocol.png
+./04_outputs/finalized_outputs/figures/D3_cross_corpus_protocol.svg
+./04_outputs/finalized_outputs/figures/D3_cross_corpus_protocol.xml
+./04_outputs/finalized_outputs/figures/D4_proposed_model.png
+./04_outputs/finalized_outputs/figures/D4_proposed_model.svg
+./04_outputs/finalized_outputs/figures/D4_proposed_model.xml
+./04_outputs/finalized_outputs/figures/F18_cross_dataset_fgm_multiseed.pdf
+./04_outputs/finalized_outputs/figures/F18_cross_dataset_fgm_multiseed.png
+./04_outputs/finalized_outputs/figures/F18_cross_dataset_vanilla_multiseed.pdf
+./04_outputs/finalized_outputs/figures/F18_cross_dataset_vanilla_multiseed.png
+./04_outputs/finalized_outputs/figures/F18_cross_domain_calibration.pdf
+./04_outputs/finalized_outputs/figures/F18_cross_domain_calibration.png
+./04_outputs/finalized_outputs/figures/F18_fgm_vs_vanilla_transfer.pdf
+./04_outputs/finalized_outputs/figures/F18_fgm_vs_vanilla_transfer.png
+./04_outputs/finalized_outputs/figures/F18_indomain_vs_transfer_multiseed.pdf
+./04_outputs/finalized_outputs/figures/F18_indomain_vs_transfer_multiseed.png
+./04_outputs/finalized_outputs/figures/F18_seed_stability.pdf
+./04_outputs/finalized_outputs/figures/F18_seed_stability.png
+./04_outputs/finalized_outputs/figures/F18_shift_vs_transfer.pdf
+./04_outputs/finalized_outputs/figures/F18_shift_vs_transfer.png
+./04_outputs/finalized_outputs/figures/F18_transfer_recall_asymmetry.pdf
+./04_outputs/finalized_outputs/figures/F18_transfer_recall_asymmetry.png
+./04_outputs/finalized_outputs/figures/F_adversarial.pdf
+./04_outputs/finalized_outputs/figures/F_adversarial.png
+./04_outputs/finalized_outputs/figures/F_calibration.pdf
+./04_outputs/finalized_outputs/figures/F_calibration.png
+./04_outputs/finalized_outputs/figures/F_class_distribution.pdf
+./04_outputs/finalized_outputs/figures/F_class_distribution.png
+./04_outputs/finalized_outputs/figures/F_classical_ml.pdf
+./04_outputs/finalized_outputs/figures/F_classical_ml.png
+./04_outputs/finalized_outputs/figures/F_confusion_proposed.pdf
+./04_outputs/finalized_outputs/figures/F_confusion_proposed.png
+./04_outputs/finalized_outputs/figures/F_cross_corpus_classical.pdf
+./04_outputs/finalized_outputs/figures/F_cross_corpus_classical.png
+./04_outputs/finalized_outputs/figures/F_cross_dataset_heatmap.pdf
+./04_outputs/finalized_outputs/figures/F_cross_dataset_heatmap.png
+./04_outputs/finalized_outputs/figures/F_dl_vs_reference.pdf
+./04_outputs/finalized_outputs/figures/F_dl_vs_reference.png
+./04_outputs/finalized_outputs/figures/F_epsilon_sweep.pdf
+./04_outputs/finalized_outputs/figures/F_epsilon_sweep.png
+./04_outputs/finalized_outputs/figures/F_error_asymmetry.pdf
+./04_outputs/finalized_outputs/figures/F_error_asymmetry.png
+./04_outputs/finalized_outputs/figures/F_fgm_vs_vanilla_transfer.pdf
+./04_outputs/finalized_outputs/figures/F_fgm_vs_vanilla_transfer.png
+./04_outputs/finalized_outputs/figures/F_head_to_head.pdf
+./04_outputs/finalized_outputs/figures/F_head_to_head.png
+./04_outputs/finalized_outputs/figures/F_indomain_vs_transfer.pdf
+./04_outputs/finalized_outputs/figures/F_indomain_vs_transfer.png
+./04_outputs/finalized_outputs/figures/F_length_accuracy.pdf
+./04_outputs/finalized_outputs/figures/F_length_accuracy.png
+./04_outputs/finalized_outputs/figures/F_multibackbone.pdf
+./04_outputs/finalized_outputs/figures/F_multibackbone.png
+./04_outputs/finalized_outputs/figures/F_proposed_loss_curve.pdf
+./04_outputs/finalized_outputs/figures/F_proposed_loss_curve.png
+./04_outputs/finalized_outputs/figures/F_reliability.pdf
+./04_outputs/finalized_outputs/figures/F_reliability.png
+./04_outputs/finalized_outputs/figures/F_repro_fidelity.pdf
+./04_outputs/finalized_outputs/figures/F_repro_fidelity.png
+./04_outputs/finalized_outputs/figures/F_seed_stability.pdf
+./04_outputs/finalized_outputs/figures/F_seed_stability.png
+./04_outputs/finalized_outputs/figures/F_shift_vs_transfer.pdf
+./04_outputs/finalized_outputs/figures/F_shift_vs_transfer.png
+./04_outputs/finalized_outputs/figures/F_significance.pdf
+./04_outputs/finalized_outputs/figures/F_significance.png
+./04_outputs/finalized_outputs/figures/F_text_length.pdf
+./04_outputs/finalized_outputs/figures/F_text_length.png
+./04_outputs/finalized_outputs/tables/01_cross_corpus_overlap.csv
+./04_outputs/finalized_outputs/tables/01_dedup_report.csv
+./04_outputs/finalized_outputs/tables/01_split_summary.csv
+./04_outputs/finalized_outputs/tables/02_classical_ml_results.csv
+./04_outputs/finalized_outputs/tables/03_dl_reference_gap_same_split.csv
+./04_outputs/finalized_outputs/tables/03_dl_results.csv
+./04_outputs/finalized_outputs/tables/04_frozen_transfer_results.csv
+./04_outputs/finalized_outputs/tables/04_reference_gap.csv
+./04_outputs/finalized_outputs/tables/05_baseline_banglabert_summary.csv
+./04_outputs/finalized_outputs/tables/06_macro_f1_pivot.csv
+./04_outputs/finalized_outputs/tables/06_multi_backbone_summary.csv
+./04_outputs/finalized_outputs/tables/07_adversarial_macro_f1_pivot.csv
+./04_outputs/finalized_outputs/tables/07_adversarial_summary.csv
+./04_outputs/finalized_outputs/tables/07_best_adversarial_per_task.csv
+./04_outputs/finalized_outputs/tables/08_pipeline_search.csv
+./04_outputs/finalized_outputs/tables/09_epsilon_sweep.csv
+./04_outputs/finalized_outputs/tables/09_final_multiseed.csv
+./04_outputs/finalized_outputs/tables/09b_fgm_awp_config.json
+./04_outputs/finalized_outputs/tables/09b_fgm_awp_multiseed.csv
+./04_outputs/finalized_outputs/tables/09b_fgm_awp_summary.csv
+./04_outputs/finalized_outputs/tables/11_ensemble_results.csv
+./04_outputs/finalized_outputs/tables/12_ensemble_significance.csv
+./04_outputs/finalized_outputs/tables/12_significance.csv
+./04_outputs/finalized_outputs/tables/13_calibration.csv
+./04_outputs/finalized_outputs/tables/14_high_conf_errors.csv
+./04_outputs/finalized_outputs/tables/14_length_stratified.csv
+./04_outputs/finalized_outputs/tables/15_grand_ranking.csv
+./04_outputs/finalized_outputs/tables/15_ours_vs_lora.csv
+./04_outputs/finalized_outputs/tables/15_ours_vs_lora_key_methods.csv
+./04_outputs/finalized_outputs/tables/15_zihan_leakage_aside.csv
+./04_outputs/finalized_outputs/tables/16_headline_results.csv
+./04_outputs/finalized_outputs/tables/18_artifact_decisions.csv
+./04_outputs/finalized_outputs/tables/18_artifact_inventory.csv
+./04_outputs/finalized_outputs/tables/18_cross_corpus_shift_audit.csv
+./04_outputs/finalized_outputs/tables/18_fgm_vs_vanilla_paired_seed_tests.csv
+./04_outputs/finalized_outputs/tables/18_fixed_target_definition_audit.json
+./04_outputs/finalized_outputs/tables/18_fixed_target_seedwise_sensitivity.csv
+./04_outputs/finalized_outputs/tables/18_fixed_target_summary.csv
+./04_outputs/finalized_outputs/tables/18_run_config.json
+./04_outputs/finalized_outputs/tables/18_shift_transfer_association.json
+./04_outputs/finalized_outputs/tables/18_split_audit.csv
+./04_outputs/finalized_outputs/tables/18_transfer_gaps_by_seed.csv
+./04_outputs/finalized_outputs/tables/18_transformer_cross_corpus_multiseed_runs.csv
+./04_outputs/finalized_outputs/tables/18_transformer_cross_corpus_multiseed_summary.csv
+./04_outputs/output_dir.txt
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_banglasarc3_binary_seed123_to_banglasarc3_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_banglasarc3_binary_seed123_to_banglasarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_banglasarc3_binary_seed123_to_ben_sarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_banglasarc3_binary_seed1_to_banglasarc3_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_banglasarc3_binary_seed1_to_banglasarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_banglasarc3_binary_seed1_to_ben_sarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_banglasarc3_binary_seed2024_to_banglasarc3_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_banglasarc3_binary_seed2024_to_banglasarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_banglasarc3_binary_seed2024_to_ben_sarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_banglasarc3_binary_seed42_to_banglasarc3_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_banglasarc3_binary_seed42_to_banglasarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_banglasarc3_binary_seed42_to_ben_sarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_banglasarc3_binary_seed7_to_banglasarc3_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_banglasarc3_binary_seed7_to_banglasarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_banglasarc3_binary_seed7_to_ben_sarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_banglasarc_binary_seed123_to_banglasarc3_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_banglasarc_binary_seed123_to_banglasarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_banglasarc_binary_seed123_to_ben_sarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_banglasarc_binary_seed1_to_banglasarc3_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_banglasarc_binary_seed1_to_banglasarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_banglasarc_binary_seed1_to_ben_sarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_banglasarc_binary_seed2024_to_banglasarc3_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_banglasarc_binary_seed2024_to_banglasarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_banglasarc_binary_seed2024_to_ben_sarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_banglasarc_binary_seed42_to_banglasarc3_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_banglasarc_binary_seed42_to_banglasarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_banglasarc_binary_seed42_to_ben_sarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_banglasarc_binary_seed7_to_banglasarc3_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_banglasarc_binary_seed7_to_banglasarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_banglasarc_binary_seed7_to_ben_sarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_ben_sarc_binary_seed123_to_banglasarc3_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_ben_sarc_binary_seed123_to_banglasarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_ben_sarc_binary_seed123_to_ben_sarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_ben_sarc_binary_seed1_to_banglasarc3_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_ben_sarc_binary_seed1_to_banglasarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_ben_sarc_binary_seed1_to_ben_sarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_ben_sarc_binary_seed2024_to_banglasarc3_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_ben_sarc_binary_seed2024_to_banglasarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_ben_sarc_binary_seed2024_to_ben_sarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_ben_sarc_binary_seed42_to_banglasarc3_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_ben_sarc_binary_seed42_to_banglasarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_ben_sarc_binary_seed42_to_ben_sarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_ben_sarc_binary_seed7_to_banglasarc3_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_ben_sarc_binary_seed7_to_banglasarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_fgm_ben_sarc_binary_seed7_to_ben_sarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_banglasarc3_binary_seed123_to_banglasarc3_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_banglasarc3_binary_seed123_to_banglasarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_banglasarc3_binary_seed123_to_ben_sarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_banglasarc3_binary_seed1_to_banglasarc3_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_banglasarc3_binary_seed1_to_banglasarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_banglasarc3_binary_seed1_to_ben_sarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_banglasarc3_binary_seed2024_to_banglasarc3_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_banglasarc3_binary_seed2024_to_banglasarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_banglasarc3_binary_seed2024_to_ben_sarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_banglasarc3_binary_seed42_to_banglasarc3_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_banglasarc3_binary_seed42_to_banglasarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_banglasarc3_binary_seed42_to_ben_sarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_banglasarc3_binary_seed7_to_banglasarc3_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_banglasarc3_binary_seed7_to_banglasarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_banglasarc3_binary_seed7_to_ben_sarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_banglasarc_binary_seed123_to_banglasarc3_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_banglasarc_binary_seed123_to_banglasarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_banglasarc_binary_seed123_to_ben_sarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_banglasarc_binary_seed1_to_banglasarc3_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_banglasarc_binary_seed1_to_banglasarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_banglasarc_binary_seed1_to_ben_sarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_banglasarc_binary_seed2024_to_banglasarc3_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_banglasarc_binary_seed2024_to_banglasarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_banglasarc_binary_seed2024_to_ben_sarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_banglasarc_binary_seed42_to_banglasarc3_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_banglasarc_binary_seed42_to_banglasarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_banglasarc_binary_seed42_to_ben_sarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_banglasarc_binary_seed7_to_banglasarc3_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_banglasarc_binary_seed7_to_banglasarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_banglasarc_binary_seed7_to_ben_sarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_ben_sarc_binary_seed123_to_banglasarc3_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_ben_sarc_binary_seed123_to_banglasarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_ben_sarc_binary_seed123_to_ben_sarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_ben_sarc_binary_seed1_to_banglasarc3_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_ben_sarc_binary_seed1_to_banglasarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_ben_sarc_binary_seed1_to_ben_sarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_ben_sarc_binary_seed2024_to_banglasarc3_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_ben_sarc_binary_seed2024_to_banglasarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_ben_sarc_binary_seed2024_to_ben_sarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_ben_sarc_binary_seed42_to_banglasarc3_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_ben_sarc_binary_seed42_to_banglasarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_ben_sarc_binary_seed42_to_ben_sarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_ben_sarc_binary_seed7_to_banglasarc3_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_ben_sarc_binary_seed7_to_banglasarc_binary.csv
+./04_outputs/predictions/18_multiseed_cross_corpus/18_vanilla_ben_sarc_binary_seed7_to_ben_sarc_binary.csv
+./04_outputs/reports/03_BiLSTM_CNN_GloVe_same_split_report.txt
+./04_outputs/reports/03_BiLSTM_GloVe_same_split_report.txt
+./04_outputs/reports/03_LSTM_CNN_GloVe_same_split_report.txt
+./04_outputs/reports/03_LSTM_CNN_same_split_report.txt
+./04_outputs/reports/03_LSTM_same_split_report.txt
+./04_outputs/reports/03_StackedLSTM_CNN_GloVe_same_split_report.txt
+./04_outputs/reports/03_dl_reproduction_summary_same_split.md
+./04_outputs/tables/01_cross_corpus_overlap.csv
+./04_outputs/tables/01_dedup_report.csv
+./04_outputs/tables/01_split_summary.csv
+./04_outputs/tables/02_classical_ml_predictions.csv
+./04_outputs/tables/02_classical_ml_results.csv
+./04_outputs/tables/03_dl_reference_gap_same_split.csv
+./04_outputs/tables/03_dl_results.csv
+./04_outputs/tables/03_dl_results_same_split.tex
+./04_outputs/tables/03_glove_coverage_same_split.csv
+./04_outputs/tables/03_history_BiLSTM_CNN_GloVe_same_split.csv
+./04_outputs/tables/03_history_BiLSTM_GloVe_same_split.csv
+./04_outputs/tables/03_history_LSTM_CNN_GloVe_same_split.csv
+./04_outputs/tables/03_history_LSTM_CNN_same_split.csv
+./04_outputs/tables/03_history_LSTM_same_split.csv
+./04_outputs/tables/03_history_StackedLSTM_CNN_GloVe_same_split.csv
+./04_outputs/tables/03_split_duplicate_check_same_split.csv
+./04_outputs/tables/04_confusion_matrices.json
+./04_outputs/tables/04_frozen_transfer_results.csv
+./04_outputs/tables/04_reference_gap.csv
+./04_outputs/tables/05_baseline_banglabert_banglasarc3_binary_confusion.json
+./04_outputs/tables/05_baseline_banglabert_banglasarc3_ternary_confusion.json
+./04_outputs/tables/05_baseline_banglabert_banglasarc_binary_confusion.json
+./04_outputs/tables/05_baseline_banglabert_ben_sarc_binary_confusion.json
+./04_outputs/tables/05_baseline_banglabert_summary.csv
+./04_outputs/tables/06_confusion_matrices.json
+./04_outputs/tables/06_macro_f1_pivot.csv
+./04_outputs/tables/06_multi_backbone_summary.csv
+./04_outputs/tables/07_adversarial_macro_f1_pivot.csv
+./04_outputs/tables/07_adversarial_summary.csv
+./04_outputs/tables/07_best_adversarial_per_task.csv
+./04_outputs/tables/08_P0_fullft_confusion.json
+./04_outputs/tables/08_P1_fullft_fgm_confusion.json
+./04_outputs/tables/08_P2_fullft_llrd_confusion.json
+./04_outputs/tables/08_P3_fullft_fgm_llrd_confusion.json
+./04_outputs/tables/08_P4_freeze6_fgm_confusion.json
+./04_outputs/tables/08_P5_freeze6_fgm_llrd_confusion.json
+./04_outputs/tables/08_P6_maxlen192_fgm_llrd_confusion.json
+./04_outputs/tables/08_P7_fgm_llrd_ls_confusion.json
+./04_outputs/tables/08_P8_large_fgm_llrd_confusion.json
+./04_outputs/tables/08_ZIHAN_repro_confusion.json
+./04_outputs/tables/08_best_pipeline.json
+./04_outputs/tables/08_pipeline_search.csv
+./04_outputs/tables/09_FINAL_confusion.json
+./04_outputs/tables/09_epsilon_sweep.csv
+./04_outputs/tables/09_final_config.json
+./04_outputs/tables/09_final_loss_curve.csv
+./04_outputs/tables/09_final_multiseed.csv
+./04_outputs/tables/09_final_multiseed_summary.json
+./04_outputs/tables/09b_fgm_awp_confusion.json
+./04_outputs/tables/09b_fgm_awp_loss_curve.csv
+./04_outputs/tables/09b_fgm_awp_multiseed.csv
+./04_outputs/tables/09b_fgm_awp_summary.csv
+./04_outputs/tables/10_cross_dataset_matrix.csv
+./04_outputs/tables/10_cross_dataset_pivot.csv
+./04_outputs/tables/11_ensemble_results.csv
+./04_outputs/tables/12_ensemble_significance.csv
+./04_outputs/tables/12_proposed_ci.json
+./04_outputs/tables/12_significance.csv
+./04_outputs/tables/13_calibration.csv
+./04_outputs/tables/14_confusion.json
+./04_outputs/tables/14_high_conf_errors.csv
+./04_outputs/tables/14_length_stratified.csv
+./04_outputs/tables/15_grand_ranking.csv
+./04_outputs/tables/15_ours_vs_lora.csv
+./04_outputs/tables/15_ours_vs_lora_key_methods.csv
+./04_outputs/tables/15_zihan_leakage_aside.csv
+./04_outputs/tables/18_artifact_decisions.csv
+./04_outputs/tables/18_artifact_inventory.csv
+./04_outputs/tables/18_cross_corpus_shift_audit.csv
+./04_outputs/tables/18_fgm_vs_vanilla_paired_seed_tests.csv
+./04_outputs/tables/18_fixed_target_definition_audit.json
+./04_outputs/tables/18_fixed_target_seedwise_sensitivity.csv
+./04_outputs/tables/18_fixed_target_summary.csv
+./04_outputs/tables/18_run_config.json
+./04_outputs/tables/18_shift_transfer_association.json
+./04_outputs/tables/18_split_audit.csv
+./04_outputs/tables/18_transfer_gaps_by_seed.csv
+./04_outputs/tables/18_transformer_cross_corpus_multiseed_runs.csv
+./04_outputs/tables/18_transformer_cross_corpus_multiseed_summary.csv
+./04_outputs/test_awp/configs/09b_fgm_awp_config.json
+./04_outputs/test_awp/figures/09b_fgm_awp_loss_curve.png
+./04_outputs/test_awp/predictions/09b_fgm_awp_ben_sarc_binary_test_predictions.csv
+./04_outputs/test_awp/predictions/09b_fgm_awp_ben_sarc_binary_val_predictions.csv
+./04_outputs/test_awp/tables/09b_fgm_awp_confusion.json
+./04_outputs/test_awp/tables/09b_fgm_awp_loss_curve.csv
+./04_outputs/test_awp/tables/09b_fgm_awp_multiseed.csv
+./04_outputs/test_awp/tables/09b_fgm_awp_summary.csv
+./05_literature/.DS_Store
+./05_literature/README.md
+./05_literature/pdfs/.DS_Store
+./05_literature/pdfs/Fast_Gradient_Method_FGM_Fine_Tuning_for_Bengali_Sarcasm_Detection.pdf
+./05_literature/pdfs/MMSD2.0.pdf
+./05_literature/pdfs/MMSD3.0.pdf
+./05_literature/pdfs/ben-sarc-a-self-annotated-corpus-for-sarcasm-detection-from-bengali-social-media-comments-and-its-baseline-evaluation.pdf
+./05_literature/pdfs/bensarc.pdf
+./05_literature/pdfs/bensarc3.pdf
+./05_literature/pdfs/helion_bangla_gan.pdf
+./05_literature/pdfs/nature_cue_learning.pdf
+./05_literature/pdfs/reference_paper_q1.pdf
+./06_thesis/.DS_Store
+./06_thesis/2003121.docx
+./06_thesis/2003121.pdf
+./06_thesis/2003121_Progress_Report_Khandoker_Sefayet_Alam.pdf
+./06_thesis/2003121_Progress_Report_Khandoker_Sefayet_Alam_.docx
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/.DS_Store
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/IEEEtran.bst
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/IEEEtran.cls
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/access.aux
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/access.log
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/access.pdf
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/access.tex
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/author1.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/author2.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/author3.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/bullet.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/equation3.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/fig1.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/D1_study_overview.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/D1_study_overview.xml
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/D2_data_leakage_control.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/D2_data_leakage_control.svg
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/D2_data_leakage_control.xml
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/D3_cross_corpus_protocol.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/D3_cross_corpus_protocol.svg
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/D3_cross_corpus_protocol.xml
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/D4_proposed_model.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/D4_proposed_model.svg
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/D4_proposed_model.xml
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F18_cross_dataset_fgm_multiseed.pdf
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F18_cross_dataset_fgm_multiseed.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F18_cross_dataset_vanilla_multiseed.pdf
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F18_cross_dataset_vanilla_multiseed.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F18_cross_domain_calibration.pdf
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F18_cross_domain_calibration.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F18_fgm_vs_vanilla_transfer.pdf
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F18_fgm_vs_vanilla_transfer.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F18_indomain_vs_transfer_multiseed.pdf
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F18_indomain_vs_transfer_multiseed.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F18_seed_stability.pdf
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F18_seed_stability.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F18_shift_vs_transfer.pdf
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F18_shift_vs_transfer.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F18_transfer_recall_asymmetry.pdf
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F18_transfer_recall_asymmetry.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_adversarial.pdf
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_adversarial.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_calibration.pdf
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_calibration.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_class_distribution.pdf
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_class_distribution.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_classical_ml.pdf
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_classical_ml.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_confusion_proposed.pdf
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_confusion_proposed.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_cross_corpus_classical.pdf
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_cross_corpus_classical.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_cross_dataset_heatmap.pdf
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_cross_dataset_heatmap.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_dl_vs_reference.pdf
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_dl_vs_reference.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_epsilon_sweep.pdf
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_epsilon_sweep.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_error_asymmetry.pdf
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_error_asymmetry.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_fgm_vs_vanilla_transfer.pdf
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_fgm_vs_vanilla_transfer.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_head_to_head.pdf
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_head_to_head.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_indomain_vs_transfer.pdf
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_indomain_vs_transfer.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_length_accuracy.pdf
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_length_accuracy.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_multibackbone.pdf
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_multibackbone.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_proposed_loss_curve.pdf
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_proposed_loss_curve.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_reliability.pdf
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_reliability.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_repro_fidelity.pdf
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_repro_fidelity.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_seed_stability.pdf
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_seed_stability.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_shift_vs_transfer.pdf
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_shift_vs_transfer.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_significance.pdf
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_significance.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_text_length.pdf
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/F_text_length.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/author_ahamed.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/author_alam.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/author_chowdhury.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/figures/author_islam.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/ieeeaccess.cls
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/logo.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/main.tex
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/notaglinelogo.png
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/references.bib
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/spotcolor.sty
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-formata-bold.pfb
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-formata-bold.tfm
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-formata-bolditalic.pfb
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-formata-bolditalic.tfm
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-formata-condmedium.pfb
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-formata-condmedium.tfm
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-formata-condmediumital.pfb
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-formata-condmediumital.tfm
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-formata-italic.pfb
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-formata-italic.tfm
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-formata-light.pfb
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-formata-light.tfm
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-formata-lightitalic.pfb
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-formata-lightitalic.tfm
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-formata-medium.pfb
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-formata-medium.tfm
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-formata-mediumitalic.pfb
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-formata-mediumitalic.tfm
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-formata-regsymb.pfb
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-formata-regsymb.tfm
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-formata-regular.pfb
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-formata-regular.tfm
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-formata.map
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-giovannistd-bookitalic.pfb
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-giovannistd-bookitalic.tfm
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-giovannistd.map
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-helvetica.map
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-times-bold.pfb
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-times-bold.tfm
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-times-bolditalic.pfb
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-times-bolditalic.tfm
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-times-italic.pfb
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-times-italic.tfm
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-times.map
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-times.pfb
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1-times.tfm
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1formata.fd
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1giovannistd.fd
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1helvetica.fd
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy 2/t1times.fd
+./06_thesis/IEEE_Access/Beyond In-Domain Accuracy.pdf
+./06_thesis/README.md
+./06_thesis/Samples/294_Abdullah_Al_Masood.pdf
+./06_thesis/Samples/Presentation Slides_Faysal_2204103002.pdf
+./06_thesis/[Sample] Thesis Progress Report.docx
+./06_thesis/[Template] Thesis Progress Report.docx
+./README.md
+./all_dir.txt
+./notes.md
+./requirements.txt
+./rerunPod.md
+./runpod_setup.sh

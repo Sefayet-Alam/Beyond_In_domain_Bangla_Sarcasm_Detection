@@ -1,0 +1,567 @@
+{
+  "package": "IEEE Access review supplement v2",
+  "raw_comment_text_included": false,
+  "manifest_scope": "all files except MANIFEST_SANITIZED.json itself",
+  "files": [
+    {
+      "path": "18_reviewer_ready_multiseed_cross_corpus.ipynb",
+      "bytes": 66169,
+      "sha256": "965c90f2d124c673710568f273f59c6d8d9d9e5917ff8b0a2f7146c1e484b7b6"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2138,
+      "sha256": "3504418de8bcafd9ab1a7788ff2ed898f106304c23d8bd73082ed09937b8c35d"
+    },
+    {
+      "path": "predictions/18_fgm_banglasarc3_binary_seed123_to_banglasarc3_binary.csv",
+      "bytes": 201171,
+      "sha256": "6823a308d10d5fd81a9f54de3f96a2627d07d540bec0f2a34381d932a886c647"
+    },
+    {
+      "path": "predictions/18_fgm_banglasarc3_binary_seed123_to_banglasarc_binary.csv",
+      "bytes": 110692,
+      "sha256": "28535a0af7c649b5563d0040e26847d30be1638f764701dd2eedb46889255014"
+    },
+    {
+      "path": "predictions/18_fgm_banglasarc3_binary_seed123_to_ben_sarc_binary.csv",
+      "bytes": 644433,
+      "sha256": "4645c1a58e965704542f9b054303785b14033adeb4b824bf536db6166a3af32a"
+    },
+    {
+      "path": "predictions/18_fgm_banglasarc3_binary_seed1_to_banglasarc3_binary.csv",
+      "bytes": 198502,
+      "sha256": "3ac8176c9ff341eec261bf60537b46fbeb4f0a6cb248291febc40280d4bc07fa"
+    },
+    {
+      "path": "predictions/18_fgm_banglasarc3_binary_seed1_to_banglasarc_binary.csv",
+      "bytes": 109143,
+      "sha256": "1f9433c578b7381a4d59a82b7f6beefc1a09eab97e9cf5b6af9a5451e18114fc"
+    },
+    {
+      "path": "predictions/18_fgm_banglasarc3_binary_seed1_to_ben_sarc_binary.csv",
+      "bytes": 635908,
+      "sha256": "dc9112cd7212c9f52684c24ee43ba4cff08d43fdbc84307cc18f394555f19f61"
+    },
+    {
+      "path": "predictions/18_fgm_banglasarc3_binary_seed2024_to_banglasarc3_binary.csv",
+      "bytes": 200207,
+      "sha256": "5101585b07951f976c34e6d1baf1adbe5720abdc17233da156ae4aacf841ffd3"
+    },
+    {
+      "path": "predictions/18_fgm_banglasarc3_binary_seed2024_to_banglasarc_binary.csv",
+      "bytes": 110162,
+      "sha256": "bb5e3badb0b0d0ffa153dc18468f4330074f3527ea6030bd39bd1964cc0ae0fc"
+    },
+    {
+      "path": "predictions/18_fgm_banglasarc3_binary_seed2024_to_ben_sarc_binary.csv",
+      "bytes": 641579,
+      "sha256": "2c1c525e1c142e59d8ccc378f8e29c8ffd5c8875db50936e17f657e8000f9559"
+    },
+    {
+      "path": "predictions/18_fgm_banglasarc3_binary_seed42_to_banglasarc3_binary.csv",
+      "bytes": 199664,
+      "sha256": "d19ed0ae80aeff2817c4bcd1234641f32e0e414f594549f060c7f01fe18622f6"
+    },
+    {
+      "path": "predictions/18_fgm_banglasarc3_binary_seed42_to_banglasarc_binary.csv",
+      "bytes": 109957,
+      "sha256": "8259393bfd737f4435b54e06ffa0aea7ffb6fba75bc25bebd9f82433497ec962"
+    },
+    {
+      "path": "predictions/18_fgm_banglasarc3_binary_seed42_to_ben_sarc_binary.csv",
+      "bytes": 640294,
+      "sha256": "fb64f59fb40c28c68839de83a245311d34ba078664a967579fdc2bc9ae371461"
+    },
+    {
+      "path": "predictions/18_fgm_banglasarc3_binary_seed7_to_banglasarc3_binary.csv",
+      "bytes": 198334,
+      "sha256": "8421d536e933fd96252b9de7a98969c699da96b8ca4f8a271a4e37c5e727a755"
+    },
+    {
+      "path": "predictions/18_fgm_banglasarc3_binary_seed7_to_banglasarc_binary.csv",
+      "bytes": 109158,
+      "sha256": "7b43561bea7dab7f840ae431cf01cb7b7c88ef4fdec9abee45f8b1a8cfbb1567"
+    },
+    {
+      "path": "predictions/18_fgm_banglasarc3_binary_seed7_to_ben_sarc_binary.csv",
+      "bytes": 635780,
+      "sha256": "12059da52000420efa8eaae6d97667fb92ba20f8bdfb5fcb0f51e0f74d6583b6"
+    },
+    {
+      "path": "predictions/18_fgm_banglasarc_binary_seed123_to_banglasarc3_binary.csv",
+      "bytes": 189453,
+      "sha256": "ff818fecfde6cceb9c0edcb602ac6afc07e0bb494d9135decc628eaa0f0bafc9"
+    },
+    {
+      "path": "predictions/18_fgm_banglasarc_binary_seed123_to_banglasarc_binary.csv",
+      "bytes": 114898,
+      "sha256": "3aae946e87a2beb0f309ca7877a12f723b71c4c55b80d50267ae2daa65541969"
+    },
+    {
+      "path": "predictions/18_fgm_banglasarc_binary_seed123_to_ben_sarc_binary.csv",
+      "bytes": 628865,
+      "sha256": "7eaef54709277435b3883f2c2def52e43b9495ee4028a59d8da1fbc3b84950cd"
+    },
+    {
+      "path": "predictions/18_fgm_banglasarc_binary_seed1_to_banglasarc3_binary.csv",
+      "bytes": 187741,
+      "sha256": "4a3fb874c83e9dc93df5b2ba0b6327a67d23e030ef000779f0c45432babb4391"
+    },
+    {
+      "path": "predictions/18_fgm_banglasarc_binary_seed1_to_banglasarc_binary.csv",
+      "bytes": 114068,
+      "sha256": "293d2cdf15d3a5b4ad1813ec5601c178d97f5eb4f98d843d623199871f576429"
+    },
+    {
+      "path": "predictions/18_fgm_banglasarc_binary_seed1_to_ben_sarc_binary.csv",
+      "bytes": 623767,
+      "sha256": "d9ef2b174ff375e73ce2c33f237ca93f2a69f3c2cf7c508f5385491e6ad2a9bd"
+    },
+    {
+      "path": "predictions/18_fgm_banglasarc_binary_seed2024_to_banglasarc3_binary.csv",
+      "bytes": 188918,
+      "sha256": "ba2714e7e566a65dbc6335612a762222eb8215525b04025d5aa072db2602297c"
+    },
+    {
+      "path": "predictions/18_fgm_banglasarc_binary_seed2024_to_banglasarc_binary.csv",
+      "bytes": 114709,
+      "sha256": "480334adec0b9d7b34f67678231a3f4b4ab0b95da24b12f7746969226c4972dc"
+    },
+    {
+      "path": "predictions/18_fgm_banglasarc_binary_seed2024_to_ben_sarc_binary.csv",
+      "bytes": 627283,
+      "sha256": "f60c1ef6fa089f962a3eb90a089bab8e3d600a491a00d3fa868a886b1e629f3b"
+    },
+    {
+      "path": "predictions/18_fgm_banglasarc_binary_seed42_to_banglasarc3_binary.csv",
+      "bytes": 188612,
+      "sha256": "be6c423491bf2ff6d6b892a10f382a9f5d5eb58803fb069005dd6e1cbe4cf6fc"
+    },
+    {
+      "path": "predictions/18_fgm_banglasarc_binary_seed42_to_banglasarc_binary.csv",
+      "bytes": 114326,
+      "sha256": "1da870797eaf473f5155f01dc57298deba6e20e342f7241d9bb3ca12e3f0f170"
+    },
+    {
+      "path": "predictions/18_fgm_banglasarc_binary_seed42_to_ben_sarc_binary.csv",
+      "bytes": 626023,
+      "sha256": "ac67b72ba440f4caa20afb663ab2f3f80e4e7db49f7afaa57aed1cdfd729255d"
+    },
+    {
+      "path": "predictions/18_fgm_banglasarc_binary_seed7_to_banglasarc3_binary.csv",
+      "bytes": 187402,
+      "sha256": "d0dde92b484cdfa2071de30abe3f7f74d59e2bd57d885f0b839f486a69005aad"
+    },
+    {
+      "path": "predictions/18_fgm_banglasarc_binary_seed7_to_banglasarc_binary.csv",
+      "bytes": 113754,
+      "sha256": "4814bc64ae31bb125029e375506ab43dbcd31f12faa3e13e435f3e474e3023c9"
+    },
+    {
+      "path": "predictions/18_fgm_banglasarc_binary_seed7_to_ben_sarc_binary.csv",
+      "bytes": 622564,
+      "sha256": "c4e7e33cd82e680a7d6fd23db8716aeabf25d0754d40a5686e13697009ac41aa"
+    },
+    {
+      "path": "predictions/18_fgm_ben_sarc_binary_seed123_to_banglasarc3_binary.csv",
+      "bytes": 197995,
+      "sha256": "6edf8e42d0f3d5afacf520cb1e820e6107896e0905e889b128f1b40ffb094ab6"
+    },
+    {
+      "path": "predictions/18_fgm_ben_sarc_binary_seed123_to_banglasarc_binary.csv",
+      "bytes": 115671,
+      "sha256": "af20aed5f000ed09f8a8da23b4b56a82ceb5d2717c5a06f6a6261efb8e861e03"
+    },
+    {
+      "path": "predictions/18_fgm_ben_sarc_binary_seed123_to_ben_sarc_binary.csv",
+      "bytes": 633383,
+      "sha256": "664ccef0cbfde73cd60fd7ea766b44254542f7efb9c13cf6043b5897cf33ac17"
+    },
+    {
+      "path": "predictions/18_fgm_ben_sarc_binary_seed1_to_banglasarc3_binary.csv",
+      "bytes": 196491,
+      "sha256": "ea2fe265336c76886b3ba70ad8a36d46cb68c646e10f1a9cb5acb7ce6f555276"
+    },
+    {
+      "path": "predictions/18_fgm_ben_sarc_binary_seed1_to_banglasarc_binary.csv",
+      "bytes": 114907,
+      "sha256": "d4149e7a58ca55ec79a9a105c3e67a064ab2292ac8cde8d4241834183bfac207"
+    },
+    {
+      "path": "predictions/18_fgm_ben_sarc_binary_seed1_to_ben_sarc_binary.csv",
+      "bytes": 628700,
+      "sha256": "4ef91436d52a1d563d32c7401c12a9d11edeb5212f501dd425208945fa6109bf"
+    },
+    {
+      "path": "predictions/18_fgm_ben_sarc_binary_seed2024_to_banglasarc3_binary.csv",
+      "bytes": 198818,
+      "sha256": "245d9e20e9231d6a2b797f350e02a81f6eab3273f2916db063b2c01cbf2ce7ab"
+    },
+    {
+      "path": "predictions/18_fgm_ben_sarc_binary_seed2024_to_banglasarc_binary.csv",
+      "bytes": 116213,
+      "sha256": "9183605d0a321ff68a280ec6a7fdb219a81ccdf79fda619f8a42b400c7bdcb64"
+    },
+    {
+      "path": "predictions/18_fgm_ben_sarc_binary_seed2024_to_ben_sarc_binary.csv",
+      "bytes": 636062,
+      "sha256": "f1e65f4e0fd9fc95312874b960d3fae8bb23de81cc84aac612ea2d9822124d3b"
+    },
+    {
+      "path": "predictions/18_fgm_ben_sarc_binary_seed42_to_banglasarc3_binary.csv",
+      "bytes": 195796,
+      "sha256": "98cf3dd9ec0fefd31cf8cb296a14eaaa0a99d985cab7c488a15e84e6b92263f0"
+    },
+    {
+      "path": "predictions/18_fgm_ben_sarc_binary_seed42_to_banglasarc_binary.csv",
+      "bytes": 114462,
+      "sha256": "5858a2cd1c86d8ff7e69b785e6d62efef8326824938c45a1fe55fa009e0bdc7c"
+    },
+    {
+      "path": "predictions/18_fgm_ben_sarc_binary_seed42_to_ben_sarc_binary.csv",
+      "bytes": 625980,
+      "sha256": "a3fec5e139408515a02404fe5d84a85b092083ab60e9e56fc8a12c8bc30c5e87"
+    },
+    {
+      "path": "predictions/18_fgm_ben_sarc_binary_seed7_to_banglasarc3_binary.csv",
+      "bytes": 196050,
+      "sha256": "8bb17010c1678b5602e5f995d5edfc16276a743e037627d909884abf8b6e4c44"
+    },
+    {
+      "path": "predictions/18_fgm_ben_sarc_binary_seed7_to_banglasarc_binary.csv",
+      "bytes": 114615,
+      "sha256": "03415369695e7cc0d71ebef4db73bd53417b1dac214f54e14b33dadd73ca1362"
+    },
+    {
+      "path": "predictions/18_fgm_ben_sarc_binary_seed7_to_ben_sarc_binary.csv",
+      "bytes": 626611,
+      "sha256": "166de350bc50860981e9b8fcbc84cdedc3a81e93bf73ac8f9512423e55838883"
+    },
+    {
+      "path": "predictions/18_vanilla_banglasarc3_binary_seed123_to_banglasarc3_binary.csv",
+      "bytes": 202948,
+      "sha256": "adbb2dc1ab3d757ccdc70e2dc22c31c490dbda939bf4b0ccbb4b5195f7d7300f"
+    },
+    {
+      "path": "predictions/18_vanilla_banglasarc3_binary_seed123_to_banglasarc_binary.csv",
+      "bytes": 111735,
+      "sha256": "da276a1b0478c395cf5704fd1d317379de43c5f12dcc3a4971dfa3829d094886"
+    },
+    {
+      "path": "predictions/18_vanilla_banglasarc3_binary_seed123_to_ben_sarc_binary.csv",
+      "bytes": 650516,
+      "sha256": "28ffa7931cd20123ec8c18c757de0b6e7cbe4801cc1a8fdbda651116edba6c60"
+    },
+    {
+      "path": "predictions/18_vanilla_banglasarc3_binary_seed1_to_banglasarc3_binary.csv",
+      "bytes": 201826,
+      "sha256": "04132749541db134042230309bd30f70992506488a8e2908857b0250d26bc52a"
+    },
+    {
+      "path": "predictions/18_vanilla_banglasarc3_binary_seed1_to_banglasarc_binary.csv",
+      "bytes": 111020,
+      "sha256": "8e924ec3860545b562cf6a07192029b64455e4b73b68032c62d881ac3f38cc5c"
+    },
+    {
+      "path": "predictions/18_vanilla_banglasarc3_binary_seed1_to_ben_sarc_binary.csv",
+      "bytes": 646598,
+      "sha256": "adda42160ad75d18139268ef241f39016e01a97f8723f9753625ba8faa96ee99"
+    },
+    {
+      "path": "predictions/18_vanilla_banglasarc3_binary_seed2024_to_banglasarc3_binary.csv",
+      "bytes": 202116,
+      "sha256": "c6bd00e128d255c27d9f1c1c9793b2930a99db80eb11d477061372f3ab8c122c"
+    },
+    {
+      "path": "predictions/18_vanilla_banglasarc3_binary_seed2024_to_banglasarc_binary.csv",
+      "bytes": 111221,
+      "sha256": "8c78a7c8a767e77f39aa9c11abe6a4f8b8432e68f17beaf58d8e9e07f2f484ad"
+    },
+    {
+      "path": "predictions/18_vanilla_banglasarc3_binary_seed2024_to_ben_sarc_binary.csv",
+      "bytes": 648037,
+      "sha256": "db10e7e21f72da4c11c9bea343417b28b14a714bcac2491e86873a1e3a9d4633"
+    },
+    {
+      "path": "predictions/18_vanilla_banglasarc3_binary_seed42_to_banglasarc3_binary.csv",
+      "bytes": 202587,
+      "sha256": "917106e73404d02a613a0b27d903346db66622586b8823ec5fdf6c6d2c0e239f"
+    },
+    {
+      "path": "predictions/18_vanilla_banglasarc3_binary_seed42_to_banglasarc_binary.csv",
+      "bytes": 111403,
+      "sha256": "5a1675591523ecbeb7a3e20d5ba4fcdbb0ff000e697ff8b1e2717427caf03a44"
+    },
+    {
+      "path": "predictions/18_vanilla_banglasarc3_binary_seed42_to_ben_sarc_binary.csv",
+      "bytes": 649839,
+      "sha256": "99bd8100dc5646c3ca317c0c4373fed1d11513854193964709b49fee17690cd9"
+    },
+    {
+      "path": "predictions/18_vanilla_banglasarc3_binary_seed7_to_banglasarc3_binary.csv",
+      "bytes": 198432,
+      "sha256": "c880c015e4c3ab866079ff7c48703c1a190f42b1a5e0ae76778c3d4fb77fdf30"
+    },
+    {
+      "path": "predictions/18_vanilla_banglasarc3_binary_seed7_to_banglasarc_binary.csv",
+      "bytes": 109055,
+      "sha256": "63d930aa3bd6db4e7f69c1458b449aa6f5de07344d86207ef3ffd4e040e36b33"
+    },
+    {
+      "path": "predictions/18_vanilla_banglasarc3_binary_seed7_to_ben_sarc_binary.csv",
+      "bytes": 635887,
+      "sha256": "be4e13f2cb7ab8c7b4016c748d212cc7db657559352189c2c40588df75b893d8"
+    },
+    {
+      "path": "predictions/18_vanilla_banglasarc_binary_seed123_to_banglasarc3_binary.csv",
+      "bytes": 192398,
+      "sha256": "c27c037dc9d8b6ea9d0f71b955c89ff3a4e692c52fdd1cd4cdb2c8bbca0ef6ab"
+    },
+    {
+      "path": "predictions/18_vanilla_banglasarc_binary_seed123_to_banglasarc_binary.csv",
+      "bytes": 116732,
+      "sha256": "3e2cf5dc11b0beb5e6eefb04a5f219c090bbcb9a0e207087c4df86d37700cc84"
+    },
+    {
+      "path": "predictions/18_vanilla_banglasarc_binary_seed123_to_ben_sarc_binary.csv",
+      "bytes": 639117,
+      "sha256": "a05dc76eb31f968431f40f21c16c613fcdcc4c4154f286a4c779defafc678605"
+    },
+    {
+      "path": "predictions/18_vanilla_banglasarc_binary_seed1_to_banglasarc3_binary.csv",
+      "bytes": 190927,
+      "sha256": "aa62577498798d38f6a0b98f044f1fe4f3a0d8c790011f4b85bc17b531a8163e"
+    },
+    {
+      "path": "predictions/18_vanilla_banglasarc_binary_seed1_to_banglasarc_binary.csv",
+      "bytes": 115881,
+      "sha256": "4b848cbf398098245e785ab0f8f6378020e75193a713d78dff8e1c100a6f7fda"
+    },
+    {
+      "path": "predictions/18_vanilla_banglasarc_binary_seed1_to_ben_sarc_binary.csv",
+      "bytes": 634504,
+      "sha256": "e226f64bc3f4726d7eefa36b9acb901c515b6393460f85299cd2bd624308d28f"
+    },
+    {
+      "path": "predictions/18_vanilla_banglasarc_binary_seed2024_to_banglasarc3_binary.csv",
+      "bytes": 193110,
+      "sha256": "3debb1ebecbaca3c71acb0932bb2377019bf11e201f2ac5b900d7bc6c197a897"
+    },
+    {
+      "path": "predictions/18_vanilla_banglasarc_binary_seed2024_to_banglasarc_binary.csv",
+      "bytes": 117235,
+      "sha256": "5e9245d1e79e2760a7a595393d8123176d00c0d239ae80a37049ebadca777d7c"
+    },
+    {
+      "path": "predictions/18_vanilla_banglasarc_binary_seed2024_to_ben_sarc_binary.csv",
+      "bytes": 641661,
+      "sha256": "3b23a96f063863010a3c4af72de572cab2dcd6b38570588e2adec720b4267859"
+    },
+    {
+      "path": "predictions/18_vanilla_banglasarc_binary_seed42_to_banglasarc3_binary.csv",
+      "bytes": 191035,
+      "sha256": "e01e5f886b086b3e3702bba720dfb7f07090770e77ebdc205d11245f404bc55f"
+    },
+    {
+      "path": "predictions/18_vanilla_banglasarc_binary_seed42_to_banglasarc_binary.csv",
+      "bytes": 115961,
+      "sha256": "f830b2d3bcd0a5fdf58ffdf0a5887e92783e1f41170761fde0b0978bd340dd5d"
+    },
+    {
+      "path": "predictions/18_vanilla_banglasarc_binary_seed42_to_ben_sarc_binary.csv",
+      "bytes": 634339,
+      "sha256": "87f04c12a3cc98498766243d11aed34cbae05af0bfcdd6750e87753e8cbe9bd2"
+    },
+    {
+      "path": "predictions/18_vanilla_banglasarc_binary_seed7_to_banglasarc3_binary.csv",
+      "bytes": 191656,
+      "sha256": "da98057ccc62ac23c71831bd2ba9532df980ac47a2f2030e31344ed1162b25e1"
+    },
+    {
+      "path": "predictions/18_vanilla_banglasarc_binary_seed7_to_banglasarc_binary.csv",
+      "bytes": 116349,
+      "sha256": "cdfd59a259eb6fddbb10509d84e6da50f50e336025f988dcf2fc38056ba371a5"
+    },
+    {
+      "path": "predictions/18_vanilla_banglasarc_binary_seed7_to_ben_sarc_binary.csv",
+      "bytes": 636436,
+      "sha256": "ee0f9ea7090b4a0eb026802f278db6a2ccbd18a479f91500ca7bcd7af56ca566"
+    },
+    {
+      "path": "predictions/18_vanilla_ben_sarc_binary_seed123_to_banglasarc3_binary.csv",
+      "bytes": 200150,
+      "sha256": "41fc49fd864630a79e872589a6a5f348031072d9f2aeeb4ee3509a7fb9fcd63d"
+    },
+    {
+      "path": "predictions/18_vanilla_ben_sarc_binary_seed123_to_banglasarc_binary.csv",
+      "bytes": 117114,
+      "sha256": "75fad3119be918b19a1adac4ceb29a733ee614cbee05ec1c7a25810082a5c778"
+    },
+    {
+      "path": "predictions/18_vanilla_ben_sarc_binary_seed123_to_ben_sarc_binary.csv",
+      "bytes": 640465,
+      "sha256": "486c6ea89192b23e2f3538fddd86a1b0ecebff93bf137fe23e75e3da71809c58"
+    },
+    {
+      "path": "predictions/18_vanilla_ben_sarc_binary_seed1_to_banglasarc3_binary.csv",
+      "bytes": 200008,
+      "sha256": "a5f0f082534220f4dfa1285bda7bae744cf3f7a5dd1869c8b7ae5c22ab0839bc"
+    },
+    {
+      "path": "predictions/18_vanilla_ben_sarc_binary_seed1_to_banglasarc_binary.csv",
+      "bytes": 116818,
+      "sha256": "a599af69630ef7ab04dea52b53271a18eec5598796b0431881703455597d4862"
+    },
+    {
+      "path": "predictions/18_vanilla_ben_sarc_binary_seed1_to_ben_sarc_binary.csv",
+      "bytes": 639020,
+      "sha256": "5ffacbe8f8f192af4503bf518a87ebd34791c2a4eb6522e26a3b4e7162f1c7aa"
+    },
+    {
+      "path": "predictions/18_vanilla_ben_sarc_binary_seed2024_to_banglasarc3_binary.csv",
+      "bytes": 201598,
+      "sha256": "e7043ca8da9cf09827fc39e11d90ba67286368171ad152f97b436dc7e6838847"
+    },
+    {
+      "path": "predictions/18_vanilla_ben_sarc_binary_seed2024_to_banglasarc_binary.csv",
+      "bytes": 117803,
+      "sha256": "64e71a628be953f1b7b34fcfe891752f02e7693887d99e83d819588db085b149"
+    },
+    {
+      "path": "predictions/18_vanilla_ben_sarc_binary_seed2024_to_ben_sarc_binary.csv",
+      "bytes": 645023,
+      "sha256": "e97c5fdd68166685e5d46e989bcff515c2c465d87db52df72fc3c070354f1399"
+    },
+    {
+      "path": "predictions/18_vanilla_ben_sarc_binary_seed42_to_banglasarc3_binary.csv",
+      "bytes": 200437,
+      "sha256": "3cf9676bf38cdf20a96ba87266748341785f3739fc6850032605d68a72194a27"
+    },
+    {
+      "path": "predictions/18_vanilla_ben_sarc_binary_seed42_to_banglasarc_binary.csv",
+      "bytes": 117095,
+      "sha256": "b7c1c3b1d5c1de99b003eeb744c19a192fe5b9e5ac9a7293cd320521673773e8"
+    },
+    {
+      "path": "predictions/18_vanilla_ben_sarc_binary_seed42_to_ben_sarc_binary.csv",
+      "bytes": 641260,
+      "sha256": "6af4ca2b0a8deb85fd9718fc46029c1214e76b0bd44fdf5e653a6067c8dfbe3e"
+    },
+    {
+      "path": "predictions/18_vanilla_ben_sarc_binary_seed7_to_banglasarc3_binary.csv",
+      "bytes": 199533,
+      "sha256": "b3a206bbe4341ca7c8e4bc7c92a7120acf201d8408c7517c238a0d97e15146f3"
+    },
+    {
+      "path": "predictions/18_vanilla_ben_sarc_binary_seed7_to_banglasarc_binary.csv",
+      "bytes": 116676,
+      "sha256": "6c92e6302cbc213b294f43697fba0533edbe5244c25ad38aa1b9051bc24027e4"
+    },
+    {
+      "path": "predictions/18_vanilla_ben_sarc_binary_seed7_to_ben_sarc_binary.csv",
+      "bytes": 638122,
+      "sha256": "899e21889b51ca51765ccaab2cdbe70f8ab559bb9165c30f822a2f6933d87c93"
+    },
+    {
+      "path": "split_manifests/banglasarc3_binary_test_hashed.csv",
+      "bytes": 88633,
+      "sha256": "8f1466851fcf35c10542e614f1a9c9a8aa6d46d8e35d9e5ca69b1c1b27aba0d6"
+    },
+    {
+      "path": "split_manifests/banglasarc3_binary_train_hashed.csv",
+      "bytes": 715105,
+      "sha256": "10436594bc8be1c98ebf59044d5922b62f1d7f2808f5c1f6487e032e9fcdd868"
+    },
+    {
+      "path": "split_manifests/banglasarc3_binary_val_hashed.csv",
+      "bytes": 87842,
+      "sha256": "03876c5d8a3bd9f839ce8a04b559deabdb153bfba058f299c199b830ac31c171"
+    },
+    {
+      "path": "split_manifests/banglasarc_binary_test_hashed.csv",
+      "bytes": 51545,
+      "sha256": "6953d0bde614474e4fb1f084a2178914f8eee757be87e78c3a00757a3dd3efde"
+    },
+    {
+      "path": "split_manifests/banglasarc_binary_train_hashed.csv",
+      "bytes": 415337,
+      "sha256": "49747c9dd77a85c6db8a5f53c99a2b595685dc09f6cfc51c9473d370b98515c1"
+    },
+    {
+      "path": "split_manifests/banglasarc_binary_val_hashed.csv",
+      "bytes": 50971,
+      "sha256": "9d716f7b53a7ebc04c3c6125b85c2bff04ebab1d1d734eb1befbdd9e5665f074"
+    },
+    {
+      "path": "split_manifests/ben_sarc_binary_test_hashed.csv",
+      "bytes": 279408,
+      "sha256": "e0cdf4b9f2111a044ee2748041a29b510f795ee9f5c6ed93bb77703e3e5fca60"
+    },
+    {
+      "path": "split_manifests/ben_sarc_binary_train_hashed.csv",
+      "bytes": 2254821,
+      "sha256": "ea0fc237ad20941f343fa251819ecead94d8fc265b7c333e7e95563568a3a3a3"
+    },
+    {
+      "path": "split_manifests/ben_sarc_binary_val_hashed.csv",
+      "bytes": 276737,
+      "sha256": "53ed14031ee22dac6242dbe69b68c168a93b5d8b6c94b168cf6b5b80e2632192"
+    },
+    {
+      "path": "tables/18_cross_corpus_shift_audit.csv",
+      "bytes": 1651,
+      "sha256": "81d40bb5fc3bdad73502267d991c19d1d1cd25b9b71d0ab4c671b34ce579211a"
+    },
+    {
+      "path": "tables/18_fgm_vs_vanilla_paired_seed_tests.csv",
+      "bytes": 1799,
+      "sha256": "cf95cccd99003182df45794b680fdf91aaccef849bdb0170996488c30518b1ea"
+    },
+    {
+      "path": "tables/18_fixed_target_definition_audit.json",
+      "bytes": 420,
+      "sha256": "e074f29ee16d134dc7d525c685cd2c094905e824d1845bae2be9514909475a8f"
+    },
+    {
+      "path": "tables/18_fixed_target_seedwise_sensitivity.csv",
+      "bytes": 7617,
+      "sha256": "912157b087e2712c23133a37ebc1968901ce11415a60acd98e3ab49270af4fad"
+    },
+    {
+      "path": "tables/18_fixed_target_summary.csv",
+      "bytes": 4694,
+      "sha256": "87db71eff3fa44e94a047efe456e93b60ef060b1469ece6d4cb6fbfea476330b"
+    },
+    {
+      "path": "tables/18_run_config.json",
+      "bytes": 1486,
+      "sha256": "d92defdac4fe5aacd5afacaac9d0fcc0303bacd1f7f6d7f0bae72aca4d862260"
+    },
+    {
+      "path": "tables/18_shift_transfer_association.json",
+      "bytes": 250,
+      "sha256": "78e7af019604908549a203d7890b91bde74eea4788df3eb75cddc21f6382dd83"
+    },
+    {
+      "path": "tables/18_split_audit.csv",
+      "bytes": 417,
+      "sha256": "864f667e1759ec0747484f1fa6c0945f09fc1e93284df43dffc483e9a338deff"
+    },
+    {
+      "path": "tables/18_transfer_gaps_by_seed.csv",
+      "bytes": 7358,
+      "sha256": "86cd88714b53bd20ff8c935b532cb0ba81a8a0cab26e6b7038e7c1ec454fb103"
+    },
+    {
+      "path": "tables/18_transformer_cross_corpus_multiseed_runs.csv",
+      "bytes": 64224,
+      "sha256": "7331bfd6acdc88cc1cabafcf527a758bff7cee8419f42d924c669844230f5b44"
+    },
+    {
+      "path": "tables/18_transformer_cross_corpus_multiseed_summary.csv",
+      "bytes": 6703,
+      "sha256": "35d34dac4f3f4261b92822ca9f786eef8b3692f7e2672595347d24fcbf2642d9"
+    }
+  ]
+}
